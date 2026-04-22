@@ -44,44 +44,4 @@ if (!prefersReducedMotion) {
     monitorObserver.observe(monitor);
   });
 }
-
-
-
-
-/* =========================
-   METADATA TYPE-ON
-   ========================= */
-
-if (!prefersReducedMotion) {
-  const metaObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) return;
-
-      const line = entry.target;
-      const text = line.dataset.text;
-      let i = 0;
-
-      line.textContent = '';
-      line.style.whiteSpace = 'nowrap';
-
-      const typeInterval = setInterval(() => {
-        line.textContent += text.charAt(i);
-        i++;
-
-        if (i >= text.length) {
-          clearInterval(typeInterval);
-        }
-      }, 20); // fast, subtle
-
-      observer.unobserve(line);
-    });
-  }, {
-    threshold: 0.6
-  });
-
-  document.querySelectorAll('.meta-line').forEach((line) => {
-    // Store text safely
-    line.dataset.text = line.textContent;
-    metaObserver.observe(line);
-  });
 }
