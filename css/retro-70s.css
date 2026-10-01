@@ -136,12 +136,8 @@ nav a {
   display: block;
 }
 
-.cropped_img {
-  width: 75vw;
-  height: auto;
-  border: none;
-  border-radius: 0.5rem;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+.monitor img:focus {
+  object-fit: none;
 }
 
 .monitor figcaption {
