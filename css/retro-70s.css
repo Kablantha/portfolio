@@ -140,7 +140,7 @@ nav a {
   display: none;
 }
 
-#img_popover:checked + label > img {
+[id$="_popover"]:checked + label > img {
   width: 100%;
   aspect-ratio: auto;
   object-fit: contain;
