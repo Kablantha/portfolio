@@ -137,7 +137,7 @@ nav a {
 }
 
 .cropped_img {
-  width: 75vm;
+  width: 75vw;
   height: auto;
   border: none;
   border-radius: 0.5rem;
