@@ -141,8 +141,9 @@ nav a {
 }
 
 #img_popover:checked + label > img {
+  width: 100%;
   aspect-ratio: auto;
-  object-fit: none;
+  object-fit: contain;
 }
 
 .monitor figcaption {
