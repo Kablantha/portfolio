@@ -136,7 +136,11 @@ nav a {
   display: block;
 }
 
-.monitor img:focus {
+#img_popover {
+  display: none;
+}
+
+#img_popover:checked + label > img {
   object-fit: none;
 }
 
