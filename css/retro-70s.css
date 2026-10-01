@@ -128,7 +128,7 @@ nav a {
 }
 
 .monitor img {
-  width: 100%;
+  width: auto;
   aspect-ratio: auto 16 / 9;
   object-fit: cover;
   display: block;
