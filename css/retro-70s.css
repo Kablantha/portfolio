@@ -136,7 +136,7 @@ nav a {
   display: block;
 }
 
-#img_popover {
+[id$="_popover"] {
   display: none;
 }
 
