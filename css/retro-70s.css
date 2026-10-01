@@ -136,6 +136,14 @@ nav a {
   display: block;
 }
 
+.cropped_img {
+  width: fit-content;
+  height: fit-content;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
 .monitor figcaption {
   font-family: "JetBrains Mono", monospace;
   font-size: 0.75rem;
