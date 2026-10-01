@@ -141,6 +141,7 @@ nav a {
 }
 
 #img_popover:checked + label > img {
+  aspect-ratio: auto;
   object-fit: none;
 }
 
