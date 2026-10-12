@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.7.3">
+    <Document PageCount="16" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" MarginPreset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" PageOrientation="0" PageSize="Letter" FirstPageNumber="1" PagePositioning="1" AutomaticTextFrameColumnCount="1" AutomaticTextFrameColumnGap="11" UnitIndex="2" FontFace="DejaVu Sans Book" FontSize="12" TextColumnCount="1" TextColumnGap="0" TabFillCharacter="" TabWidth="36" TextDistanceLeft="0" TextDistanceRight="0" TextDistanceBottom="0" TextDistanceTop="0" FirstLineOffset="1" DocumentInfoAuthor="" DocumentInfoComments="" DocumentInfoKeywords="" DocumentInfoPublisher="" DocumentInfoDate="" DocumentInfoType="" DocumentInfoFormat="" DocumentInfoIdentifier="" DocumentInfoSource="" DocumentInfoLanguage="" DocumentInfoRelation="" DocumentInfoCoverage="" DocumentInfoRights="" DocumentInfoContributors="" DocumentInfoTitle="" DocumentInfoSubject="" SuperScriptDisplacement="33" SuperScriptScaling="66" SubScriptDisplacement="33" SubScriptScaling="66" SmallCapsScaling="75" BaselineGridSpacing="14.4" BaselineGridOffset="0" AutoLineSpacingPct="100" UnderlinePosition="-1" UnderlineWidth="-1" StrikeThruPosition="-1" StrikeThruWidth="-1" GroupCounter="3" DocumentHasCMS="0" SoftProofOn="0" SoftProofFullOn="0" ColorManagementActive="0" GamutCheck="0" BlackPoint="1" DefaultPrinterProfile="ISO Coated v2 300% (basICColor)" DefaultImageRGBProfile="sRGB display profile (ICC v2.2)" DefaultImageCMYKProfile="ISO Coated v2 300% (basICColor)" DefaultSolidColorRGBProfile="sRGB display profile (ICC v2.2)" DefaultSolidColorCMYKProfile="ISO Coated v2 300% (basICColor)" DefaultIntentColors="1" DefaultIntentImages="0" ActiveLayer="0" Language="en_US" AutomaticHyphenation="1" AutomaticHyphenationCheck="0" GuideLock="0" SnapToGuides="1" SnapToGrid="0" SnapToItems="1" MinorGridSpacing="20" MajorGridSpacing="100" ShowGrid="0" ShowGuides="1" ShowColumnBorders="1" ShowFrames="1" ShowControls="0" ShowLayerMarkers="0" ShowMargins="1" ShowBaselineGrid="0" ShowImages="1" ShowLinks="0" RulerMode="1" ShowRulers="1" ShowBleed="1" RulerXOffset="0" RulerYOffset="0" GuideRadius="10" GrabRadius="4" PolygonCorners="4" PolygonFactor="0.5" PolygonRotation="0" PolygonInnerRotation="0" PolygonCurvature="0" PolygonOuterCurvature="0" PolygonUseFactor="0" ArcStartAngle="30" ArcSweepAngle="300" SpiralStartAngle="0" SpiralEndAngle="1080" SpiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AutoSaveInDocumentDirectory="1" AutoSaveDirectory="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" LineStartArrow="0" LineEndArrow="0" ShapeLineColor="Black" ShapeFillColor="None" LineColor="Black" TextColor="Black" TextStrokeColor="Black" TextBackgroundColor="None" TextLineColor="None" TextBackgroundColorShade="100" TextLineColorShade="100" TextColorShade="100" TextStrokeColorShade="100" ShapeLineStyle="1" LineStyle="1" ShapeLineWidth="1" LineWidth="1" ShapeLineColorShade="100" LineColorShade="100" ShapeFillColorShade="100" ImageFillColor="None" ImageFillColorShade="100" ImageStrokeColor="None" ImageStrokeColorShade="100" ImageScaleX="1" ImageScaleY="1" ImageScaleType="1" ImageAspectRatio="1" ImageUseEmbeddedPath="0" ImageLowResType="1" DisplayOffsetX="10" DisplayOffsetY="10" RotationConstrainAngle="15" MinorGridColor="#00ff00" MajorGridColor="#00ff00" GuidesColor="#000080" BaselineGridColor="#c0c0c0" RenderStack="2 0 4 1 3" GridType="0" PageColor="#ffffff" MarginColor="#0000ff" ShowMarginsFilled="0" CurrentProfile="PDF 1.4" CalligraphicPenFillColor="Black" CalligraphicPenLineColor="Black" CalligraphicPenFillColorShade="100" CalligraphicPenLineColorShade="100" CalligraphicPenLineWidth="1" CalligraphicPenAngle="0" CalligraphicPenWidth="10" CalligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.4" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.5" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.6" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-1a" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="1" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-3" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="1" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-4" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="1" CheckFontNotEmbedded="1" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PostScript" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="0" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <Color Name="Black" Space="CMYK" C="0" M="0" Y="0" K="100"/>
+        <Color Name="Blue" Space="RGB" R="0" G="0" B="255"/>
+        <Color Name="Cool Black" Space="CMYK" C="60" M="0" Y="0" K="100"/>
+        <Color Name="Copy of Blue" Space="RGB" R="0" G="0" B="172"/>
+        <Color Name="Cyan" Space="CMYK" C="100" M="0" Y="0" K="0"/>
+        <Color Name="Green" Space="RGB" R="0" G="255" B="0"/>
+        <Color Name="Magenta" Space="CMYK" C="0" M="100" Y="0" K="0"/>
+        <Color Name="New Color" Space="RGB" R="151" G="201" B="255"/>
+        <Color Name="Red" Space="RGB" R="255" G="0" B="0"/>
+        <Color Name="Registration" Space="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <Color Name="Rich Black" Space="CMYK" C="60" M="40" Y="40" K="100"/>
+        <Color Name="Silver" Space="RGB" R="249" G="243" B="239"/>
+        <Color Name="Warm Black" Space="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <Color Name="White" Space="CMYK" C="0" M="0" Y="0" K="0"/>
+        <Color Name="Yellow" Space="CMYK" C="0" M="0" Y="100" K="0"/>
+        <Hyphenator/>
+        <CharacterStyle Name="Default Character Style" DefaultStyle="1" Font="DejaVu Sans Book" FontSize="12" FontFeatures="" Features="inherit" FontColor="Black" FillShade="100" HyphenWordMinimum="3" StrokeColor="Black" BackgroundColor="None" BackgroundShade="100" StrokeShade="100" TextShadowXOffset="5" TextShadowYOffset="-5" TextOutlineWidth="1" TextUnderlineOffset="-0.1" TextUnderlineWidth="-0.1" TextStrikeThroughOffset="-0.1" TextStrikeThroughWidth="-0.1" ScaleHorizontal="100" ScaleVertical="100" BaselineOffset="0" Kerning="0" Language="en_US"/>
+        <ParagraphStyle Name="Default Paragraph Style" DefaultStyle="1" Alignment="0" Direction="0" LineSpacingMode="0" LineSpacing="14" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="8" GapAfter="4" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Exo 2 Regular" FontFeatures="-clig"/>
+        <ParagraphStyle Name="Header 1" Alignment="0" Direction="0" LineSpacingMode="1" LineSpacing="15" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="18" GapAfter="4" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Bebas Neue Regular" FontSize="28" FontFeatures="-liga,-clig"/>
+        <ParagraphStyle Name="Header 2" Alignment="0" Direction="0" LineSpacingMode="1" LineSpacing="15" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="8" GapAfter="4" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Exo 2 Regular" FontSize="16" FontFeatures="-clig"/>
+        <ParagraphStyle Name="Header 3" Alignment="0" Direction="0" LineSpacingMode="1" LineSpacing="15" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="8" GapAfter="4" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Exo 2 Regular" FontSize="14" FontFeatures="-clig"/>
+        <ParagraphStyle Name="Caption" Alignment="0" Direction="0" LineSpacingMode="0" LineSpacing="10" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="0" GapAfter="2" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Exo 2 Regular" FontSize="8" FontFeatures="-clig"/>
+        <TableStyle Name="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle Name="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1"/>
+        <Layers Number="0" Level="0" Name="Background" IsViewable="1" IsPrintable="1" IsEditable="1" IsSelectable="0" FlowControl="1" Transparency="1" BlendMode="0" OutlineMode="0" LayerColor="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <Indexes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <OpticalMarginSets>
+            <Set Id="preset_0" Type="preset" Name="Default">
+                <Rules>
+                    <Rule Left="0" Right="0.5" Unit="7" Characters="U+003A,U+003B,U+2013,U+2033"/>
+                    <Rule Left="0" Right="0.75" Unit="7" Characters="U+002C,U+002D,U+002E,U+2010,U+2032"/>
+                    <Rule Left="0.25" Right="0.25" Unit="7" Characters="U+2014"/>
+                    <Rule Left="0.5" Right="0" Unit="7" Characters="U+2036"/>
+                    <Rule Left="0.5" Right="0.5" Unit="7" Characters="U+0022,U+0028,U+0029,U+005B,U+005D,U+00AB,U+00BB,U+201C,U+201D,U+201E,U+201F"/>
+                    <Rule Left="0.75" Right="0" Unit="7" Characters="U+2035"/>
+                    <Rule Left="0.75" Right="0.75" Unit="7" Characters="U+0027,U+002A,U+0060,U+007E,U+00B4,U+2018,U+2019,U+201A,U+201B,U+2039,U+203A"/>
+                </Rules>
+            </Set>
+        </OpticalMarginSets>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="0" PageName="Normal Left" MasterPageName="" Size="Letter" Orientation="0" LeftPage="1" Preset="0" VerticalGuides="" HorizontalGuides="" AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="1" PageName="Normal Right" MasterPageName="" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="" HorizontalGuides="" AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="0" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="852" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="1" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="396 267.098 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="852" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="2" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="1684" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="3" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="1684" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="4" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="2516" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="5" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="304.215 " HorizontalGuides="266.04 522.228 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="2516" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="6" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="3348" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="7" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="3348" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="8" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="4180" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="9" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="4180" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="10" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="5012" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="11" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="5012" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="12" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="5844" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="13" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="5844" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="14" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="6676" PageWidth="612" PageHeight="792" BorderLeft="40" BorderRight="40" BorderTop="40" BorderBottom="40" PageNumber="15" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="306 " HorizontalGuides="266.04 396 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <PageObject XPosition="100" YPosition="851.707317073171" OwnPage="1" ItemID="1635007069" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="4179.70731707317" OwnPage="9" ItemID="435956666" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="2515.70731707317" OwnPage="5" ItemID="2001929549" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="-0.922736220472586" ImageOffsetY="1.57480314960594" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="2515.70731707317" OwnPage="6" ItemID="2075331979" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="-4.86384514435751" ImageOffsetY="-0.750492125985147" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="818.5" YPosition="1903.52" OwnPage="4" ItemID="1037931040" ItemType="2" Width="410.46" Height="378.236097560976" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.31519674796748" ImageScaleY="0.31519674796748" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="Gauntlet_-_Delapouite_-_game-icons.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L410.46 0 L410.46 378.236 L0 378.236 L0 0 Z" ContourLinePath="M0 0 L410.46 0 L410.46 378.236 L0 378.236 L0 0 Z" gXpos="818.5" gYpos="1903.52" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="756.5" YPosition="2158.10002529644" OwnPage="4" ItemID="219831151" ItemType="2" Width="271.29600886918" Height="277.537549407115" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Orange BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L271.296 0 L271.296 277.538 L0 277.538 L0 0 Z" ContourLinePath="M0 0 L271.296 0 L271.296 277.538 L0 277.538 L0 0 Z" gXpos="756.5" gYpos="2158.10002529644" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="2157.7376" OwnPage="4" ItemID="1666097898" ItemType="4" Width="275.291304347826" Height="278.2624" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L275.291 0 L275.291 278.262 L0 278.262 L0 0 Z" ContourLinePath="M0 0 L275.291 0 L275.291 278.262 L0 278.262 L0 0 Z" gXpos="140" gYpos="2157.7376" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Morgan is a metal sculpture artist in her late-30s. Her art often focuses on the struggles of marginalized people, though it is often misunderstood. She is an activist and protester who feels strongly about keeping the most vulnerable members of her community safe. "/>
+                <para/>
+                <Content Chars="She previously dated Liz, and though they are no longer together, they remain good friends. Morgan devotes all the energy she would put into a relationship into her art and her activism. "/>
+                <para/>
+                <Content Chars="Morgan often comes across as abrasive, but her friends know that she is merely direct. That directness, when mixed with her passion, can often be misinterpreted as aggression."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="712" YPosition="1683.70731707317" OwnPage="4" ItemID="1044418010" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="1683.70731707317" OwnPage="3" ItemID="829516013" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="786.087804878048" YPosition="3570.35576645663" OwnPage="8" ItemID="490971044" ItemType="2" Width="463.609756097561" Height="371.284901028882" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.330913459027524" ImageScaleY="0.330913459027524" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="pistol-gun.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L463.61 0 L463.61 371.285 L0 371.285 L0 0 Z" ContourLinePath="M0 0 L463.61 0 L463.61 371.285 L0 371.285 L0 0 Z" gXpos="786.087804878048" gYpos="3570.35576645663" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="3347.70731707317" OwnPage="8" ItemID="998104611" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="872.4" YPosition="2735.02" OwnPage="6" ItemID="1424753157" ItemType="2" Width="315.455098089366" Height="437.768441145285" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.285005495537295" ImageScaleY="0.285005495537295" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="helmet.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L315.455 0 L315.455 437.768 L0 437.768 L0 0 Z" ContourLinePath="M0 0 L315.455 0 L315.455 437.768 L0 437.768 L0 0 Z" gXpos="260.4" gYpos="2735.02" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="242.341463414634" YPosition="2728.43249999995" OwnPage="5" ItemID="1587145294" ItemType="2" Width="325.65326882107" Height="425.518719512244" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.377902948057055" ImageScaleY="0.377902948057055" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="shield.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L325.653 0 L325.653 425.519 L0 425.519 L0 0 Z" ContourLinePath="M0 0 L325.653 0 L325.653 425.519 L0 425.519 L0 0 Z" gXpos="242.341463414634" gYpos="2728.43249999995" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="222.756097560976" YPosition="3568.45777306469" OwnPage="7" ItemID="291911920" ItemType="2" Width="375.487804878049" Height="385.127932131497" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.345716276599189" ImageScaleY="0.345716276599189" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="slingshot.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L375.488 0 L375.488 385.128 L0 385.128 L0 0 Z" ContourLinePath="M0 0 L375.488 0 L375.488 385.128 L0 385.128 L0 0 Z" gXpos="222.756097560976" gYpos="2736.45777306469" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="710.341463414634" YPosition="20.6585365853659" OwnPage="0" ItemID="1484825550" ItemType="6" Width="613.658536585366" Height="791.341463414634" FrameType="0" ClipEdited="0" LineWidth="1" FillColor="Black" LineColor="Black" LinePenStyle="1" Path="M0 0 L613.659 0 L613.659 791.341 L0 791.341 L0 0 Z" ContourLinePath="M0 0 L613.659 0 L613.659 791.341 L0 791.341 L0 0 Z" gXpos="710.341463414634" gYpos="20.6585365853659" gWidth="0" gHeight="0" Layer="0"/>
+        <PageObject XPosition="752" YPosition="1906.14229249012" OwnPage="4" ItemID="2049996991" ItemType="2" Width="133.130434782609" Height="251.957732806324" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Orange BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L133.13 0 L133.13 251.958 L0 251.958 L0 0 Z" ContourLinePath="M0 0 L133.13 0 L133.13 251.958 L0 251.958 L0 0 Z" gXpos="752" gYpos="1906.14229249012" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="2736.0852173913" OwnPage="6" ItemID="1450072489" ItemType="2" Width="126.4" Height="253.480000000004" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="3.71739130435026" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Green BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L126.4 0 L126.4 253.48 L0 253.48 L0 0 Z" ContourLinePath="M0 0 L126.4 0 L126.4 253.48 L0 253.48 L0 0 Z" gXpos="752" gYpos="2736.0852173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="973.957000000008" YPosition="3567.93304347826" OwnPage="8" ItemID="1430709715" ItemType="2" Width="310.042999999992" Height="188.065173492808" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Purple BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L310.043 0 L310.043 188.065 L0 188.065 L0 0 Z" ContourLinePath="M0 0 L310.043 0 L310.043 188.065 L0 188.065 L0 0 Z" gXpos="973.957000000008" gYpos="3567.93304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="2736.02" OwnPage="5" ItemID="112642650" ItemType="2" Width="127.965217391304" Height="253.545217391305" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Yellow BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L127.965 0 L127.965 253.545 L0 253.545 L0 0 Z" ContourLinePath="M0 0 L127.965 0 L127.965 253.545 L0 253.545 L0 0 Z" gXpos="140" gYpos="2736.02" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="368.707000000008" YPosition="2734.02" OwnPage="5" ItemID="1105587132" ItemType="2" Width="305.542999999992" Height="175.434999999967" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Yellow BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L305.543 0 L305.543 175.435 L0 175.435 L0 0 Z" ContourLinePath="M0 0 L305.543 0 L305.543 175.435 L0 175.435 L0 0 Z" gXpos="368.707000000008" gYpos="2734.02" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="3567.93304347826" OwnPage="8" ItemID="492125291" ItemType="2" Width="133" Height="253.632173913044" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Purple BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L133 0 L133 253.632 L0 253.632 L0 0 Z" ContourLinePath="M0 0 L133 0 L133 253.632 L0 253.632 L0 0 Z" gXpos="752" gYpos="3567.93304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="3823.7174132536" OwnPage="8" ItemID="708489787" ItemType="2" Width="266" Height="276.282586746404" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Purple BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L266 0 L266 276.283 L0 276.283 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 276.283 L0 276.283 L0 0 Z" gXpos="752" gYpos="3823.7174132536" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="2997.26" OwnPage="5" ItemID="255228343" ItemType="2" Width="266" Height="270.74" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Yellow BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L266 0 L266 270.74 L0 270.74 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 270.74 L0 270.74 L0 0 Z" gXpos="140" gYpos="2997.26" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="461.739464471409" YPosition="2997.26" OwnPage="5" ItemID="1642511541" ItemType="2" Width="212.510535528591" Height="270.74" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-93.0324644714013" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Yellow BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L212.511 0 L212.511 270.74 L0 270.74 L0 0 Z" ContourLinePath="M0 0 L212.511 0 L212.511 270.74 L0 270.74 L0 0 Z" gXpos="461.739464471409" gYpos="2997.26" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="1073.47826086957" YPosition="2235.84782608696" OwnPage="4" ItemID="730579867" ItemType="2" Width="209.47233201581" Height="200.152173913043" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-92.4723320158105" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Orange BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L209.472 0 L209.472 200.152 L0 200.152 L0 0 Z" ContourLinePath="M0 0 L209.472 0 L209.472 200.152 L0 200.152 L0 0 Z" gXpos="1073.47826086957" gYpos="2235.84782608696" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="981.264822134387" YPosition="1908.14229249012" OwnPage="4" ItemID="2079104632" ItemType="2" Width="301.944664031621" Height="185.07509881423" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Orange BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L301.945 0 L301.945 185.075 L0 185.075 L0 0 Z" ContourLinePath="M0 0 L301.945 0 L301.945 185.075 L0 185.075 L0 0 Z" gXpos="981.264822134387" gYpos="1908.14229249012" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="194.8" YPosition="1902.32" OwnPage="3" ItemID="1288150195" ItemType="2" Width="422.4" Height="393.948695652176" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.352" ImageScaleY="0.352" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="Guitar_icon.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L422.4 0 L422.4 393.949 L0 393.949 L0 0 Z" ContourLinePath="M0 0 L422.4 0 L422.4 393.949 L0 393.949 L0 0 Z" gXpos="194.8" gYpos="1902.32" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140.347826086957" YPosition="892" OwnPage="1" ItemID="2063900526" ItemType="4" Width="531.652173913043" Height="28.8" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.652 0 L531.652 28.8 L0 28.8 L0 0 Z" ContourLinePath="M0 0 L531.652 0 L531.652 28.8 L0 28.8 L0 0 Z" gXpos="0.347826086956502" gYpos="0" gWidth="532" gHeight="141.208695652174" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="28" Chars="What is "/>
+                <Content Font="Bebas Neue Regular" FontSize="28" Chars="Rainbow Brigade?"/>
+                <trail Parent="Header 1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="920.8" OwnPage="1" ItemID="844397644" ItemType="4" Width="532" Height="112.408695652174" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 112.409 L0 112.409 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 112.409 L0 112.409 L0 0 Z" gXpos="0" gYpos="28.8" gWidth="532" gHeight="141.208695652174" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="12" Chars="Rainbow Brigade is a semi-open world CRPG in the vein of Baldur’s Gate 3 or Divinity: Original Sin. It focuses on a group of six adult friends who gain extraordinary abilities which they use to protect their community and each other. Players will experience victory and defeat alongside the core team of characters, culminating in a story of trials, triumph, and overcoming impossible odds. "/>
+                <para/>
+                <Content FontSize="12" Chars="It is heavily inspired by the tokusatsu genre of shows, especially "/>
+                <Content Font="Exo 2 Italic" FontSize="12" Chars="Power Rangers"/>
+                <Content FontSize="12" Chars=" (and its Japanese counterpart "/>
+                <Content Font="Exo 2 Italic" FontSize="12" Chars="Super Sentai"/>
+                <Content FontSize="12" Chars=") and "/>
+                <Content Font="Exo 2 Italic" FontSize="12" Chars="Kamen Rider"/>
+                <Content FontSize="12" Chars=". "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="366.347826086957" YPosition="1906.32" OwnPage="3" ItemID="1035226438" ItemType="2" Width="300.652173913043" Height="180.68" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-4.89130434782606" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Red BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L300.652 0 L300.652 180.68 L0 180.68 L0 0 Z" ContourLinePath="M0 0 L300.652 0 L300.652 180.68 L0 180.68 L0 0 Z" gXpos="366.347826086957" gYpos="1906.32" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="1396.7652173913" OwnPage="1" ItemID="944174542" ItemType="12" Width="532" Height="207.234782608696" FrameType="0" ClipEdited="0" AutoName="Group1" GroupWidth="532" GroupHeight="207.234782608696" GroupClipping="1" Path="M0 0 L532 0 L532 207.235 L0 207.235 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 207.235 L0 207.235 L0 0 Z" gXpos="140" gYpos="1396.7652173913" gWidth="0" gHeight="0" Layer="0">
+            <PageObject XPosition="140" YPosition="1049.32173913043" OwnPage="1" ItemID="1379195039" ItemType="4" Width="532" Height="24.4173913043478" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 24.4174 L0 24.4174 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 24.4174 L0 24.4174 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="207.234782608696" Layer="0" NextItem="-1" BackItem="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <Content Chars="Plot Overview"/>
+                    <trail Parent="Header 1"/>
+                </StoryText>
+            </PageObject>
+            <PageObject XPosition="140" YPosition="1073.73913043478" OwnPage="1" ItemID="2112343716" ItemType="4" Width="532" Height="182.817391304348" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 182.817 L0 182.817 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 182.817 L0 182.817 L0 0 Z" gXpos="0" gYpos="24.4173913043478" gWidth="532" gHeight="207.234782608696" Layer="0" NextItem="-1" BackItem="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <Content Chars="On the far-off world of Synthax One, a spaceship is launched containing six organisms that bridge the gap between biology and technology. These biocomputers have the unique ability to create a permanent bond with a sentient lifeform, granting them incredible superpowers. "/>
+                    <para/>
+                    <Content Chars="On the somewhat closer world of Earth, six friends are walking through the park after a late dinner together. They have been friends for years and are now adults with their own jobs, relationships, and responsibilities. Their lives are changed forever when a meteor crashes in the forest nearby and they decide to investigate. "/>
+                    <para/>
+                    <Content Chars="Suddenly armed with the fantastic ability to create armor and weapons out of “hard light,” these six friends are thrust into the middle of a conflict that has been raging on Synthax One for years. The villainous Vince O'Ruin is determined to make Earth his own using his army of monsters. Only six millennials with powers they don’t understand stand in the way of his total dominion. "/>
+                    <trail/>
+                </StoryText>
+            </PageObject>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="2156.03739130435" OwnPage="3" ItemID="432477706" ItemType="2" Width="266" Height="279.962608695653" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-4.89130434782606" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Red BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L266 0 L266 279.963 L0 279.963 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 279.963 L0 279.963 L0 0 Z" gXpos="140" gYpos="2156.03739130435" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="462.608695652174" YPosition="2237.19565217391" OwnPage="3" ItemID="725251222" ItemType="2" Width="209.391304347826" Height="198.804347826087" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-96.1521739130432" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Red BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L209.391 0 L209.391 198.804 L0 198.804 L0 0 Z" ContourLinePath="M0 0 L209.391 0 L209.391 198.804 L0 198.804 L0 0 Z" gXpos="462.608695652174" gYpos="2237.19565217391" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="1902.32" OwnPage="3" ItemID="2048343794" ItemType="2" Width="129.121951219512" Height="249.717391304347" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-4.89130434782606" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Red BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L129.122 0 L129.122 249.717 L0 249.717 L0 0 Z" ContourLinePath="M0 0 L129.122 0 L129.122 249.717 L0 249.717 L0 0 Z" gXpos="140" gYpos="1902.32" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="261.565217391304" YPosition="1210.83369565217" OwnPage="1" ItemID="612429924" ItemType="2" Width="288.869565217391" Height="121.04347826087" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.179589730357374" ImageScaleY="0.179589730357374" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="20220818_all_a9nfhptj.jpg" ImageProfile="Embedded sRGB IEC61966-2.1" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB IEC61966-2.1" Path="M0 0 L288.87 0 L288.87 121.043 L0 121.043 L0 0 Z" ContourLinePath="M0 0 L288.87 0 L288.87 121.043 L0 121.043 L0 0 Z" gXpos="121.565217391304" gYpos="149.625" gWidth="532" gHeight="310.113043478261" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="178.975609756097" YPosition="1061.20869565217" OwnPage="1" ItemID="1514598714" ItemType="2" Width="227.024390243903" Height="149.625" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.315" ImageScaleY="0.315" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="how-does-himitsu-sentai-gorenger-hold-up-today-v0-vfh6s5ps4rzc1.webp" ImageColorimetricIntent="0" UseEmbeddedProfile="0" Path="M0 0 L227.024 0 L227.024 149.625 L0 149.625 L0 0 Z" ContourLinePath="M0 0 L227.024 0 L227.024 149.625 L0 149.625 L0 0 Z" gXpos="38.9756097560975" gYpos="-1.06581410364015e-14" gWidth="532" gHeight="310.113043478261" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="406" YPosition="1061.20869565217" OwnPage="1" ItemID="213328401" ItemType="2" Width="266" Height="149.625" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.2078125" ImageScaleY="0.2078125" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="power rangers.webp" ImageColorimetricIntent="0" UseEmbeddedProfile="0" Path="M0 0 L266 0 L266 149.625 L0 149.625 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 149.625 L0 149.625 L0 0 Z" gXpos="266" gYpos="0" gWidth="532" gHeight="310.113043478261" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="238.95652173913" YPosition="1331.87717391304" OwnPage="1" ItemID="1066261749" ItemType="4" Width="340.173913043478" Height="39.4445652173913" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L340.174 0 L340.174 39.4446 L0 39.4446 L0 0 Z" ContourLinePath="M0 0 L340.174 0 L340.174 39.4446 L0 39.4446 L0 0 Z" gXpos="98.9565217391304" gYpos="270.66847826087" gWidth="532" gHeight="310.113043478261" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="9" Chars="Inspiration for "/>
+                <Content Font="Exo 2 Italic" FontSize="9" Chars="Rainbow Brigade"/>
+                <Content FontSize="9" Chars="."/>
+                <para Parent="Caption"/>
+                <Content FontSize="9" Chars="Top right: "/>
+                <Content Font="Exo 2 Italic" FontSize="9" Chars="Himitsu Sentai Gorenger"/>
+                <Content FontSize="9" Chars=". Top Left: "/>
+                <Content Font="Exo 2 Italic" FontSize="9" Chars="Mighty Morphin Power Rangers"/>
+                <Content FontSize="9" Chars=". Bottom: "/>
+                <Content Font="Exo 2 Italic" FontSize="9" Chars="Kamen Rider Revice"/>
+                <Content FontSize="9" Chars="."/>
+                <trail Parent="Caption"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="194.8" YPosition="1724" OwnPage="3" ItemID="172818231" ItemType="2" Width="422.4" Height="178.32" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowRed.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L422.4 0 L422.4 178.32 L0 178.32 L0 0 Z" ContourLinePath="M0 0 L422.4 0 L422.4 178.32 L0 178.32 L0 0 Z" gXpos="194.8" gYpos="1724" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="807.04" YPosition="1724" OwnPage="4" ItemID="416834941" ItemType="2" Width="421.92" Height="179.52" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowOrange.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" ContourLinePath="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" gXpos="807.04" gYpos="1724" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="195.04" YPosition="2556" OwnPage="5" ItemID="187181678" ItemType="2" Width="421.92" Height="179.52" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowYellow.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" ContourLinePath="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" gXpos="195.04" gYpos="2556" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="807.04" YPosition="2556.5652173913" OwnPage="6" ItemID="999807664" ItemType="2" Width="421.92" Height="179.52" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowGreen.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" ContourLinePath="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" gXpos="807.04" gYpos="2556.5652173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="195.04" YPosition="3388.91304347826" OwnPage="7" ItemID="139172687" ItemType="2" Width="421.92" Height="179.52" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowBlue.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" ContourLinePath="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" gXpos="195.04" gYpos="3388.91304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="807.04" YPosition="3388" OwnPage="8" ItemID="564115725" ItemType="2" Width="421.92" Height="179.52" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="RainbowPurple.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" ContourLinePath="M0 0 L421.92 0 L421.92 179.52 L0 179.52 L0 0 Z" gXpos="807.04" gYpos="3388" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="1174.05022608696" OwnPage="2" ItemID="1105007954" ItemType="4" Width="532" Height="28.8" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 28.8 L0 28.8 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 28.8 L0 28.8 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="429.949773913044" ParagraphStyle="Header 1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Parent="Header 1"/>
+                <Content FontSize="20" Chars="Meet the Protagonists"/>
+                <trail Parent="Header 1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="1202.85022608696" OwnPage="2" ItemID="743782000" ItemType="4" Width="532" Height="71.2521739130437" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 71.2522 L0 71.2522 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 71.2522 L0 71.2522 L0 0 Z" gXpos="0" gYpos="28.8" gWidth="532" gHeight="429.949773913044" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="12" Chars="On the pages that follow, you will meet the Rainbow Brigade: Rin, Morgan, Colin, Carter, Liz, and Zephir."/>
+                <para/>
+                <Content FontSize="12" Chars="Each character has their own special combat abilities, but they also have several in common. These are:"/>
+                <para/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="773.814" YPosition="1274.6024" OwnPage="2" ItemID="1870212321" ItemType="6" Width="222.372" Height="96.8976" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Cool Black" LineColor="Rich Black" LinePenStyle="1" Path="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" gXpos="0.500000000000114" gYpos="0.5" gWidth="489.372" gHeight="329.8976" Layer="0"/>
+        <PageObject XPosition="774.782608695652" YPosition="1275.57293913044" OwnPage="2" ItemID="2004786601" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="1.46860869565205" gYpos="1.47053913043487" gWidth="489.372" gHeight="329.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Henshin"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" FontColor="White" Chars="Transforms characters from their human form to their superhero form"/>
+                <para LineSpacingMode="0" LineSpacing="10" ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" FontColor="White" Chars="Removed following transformation "/>
+                <trail LineSpacingMode="0" LineSpacing="10" ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="773.814" YPosition="1386.6024" OwnPage="2" ItemID="925853709" ItemType="6" Width="222.372" Height="96.8976" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Cool Black" LineColor="Rich Black" LinePenStyle="1" Path="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" gXpos="0.5" gYpos="0.5" gWidth="223.372" gHeight="97.8976" Layer="0"/>
+        <PageObject XPosition="774.782608695652" YPosition="1387.57293913044" OwnPage="2" ItemID="113405367" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="1.46860869565194" gYpos="1.47053913043487" gWidth="223.372" gHeight="97.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Attack"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Basic attack with primary weapon"/>
+                <trail ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1039.814" YPosition="1386.6024" OwnPage="2" ItemID="705097663" ItemType="6" Width="222.372" Height="96.8976" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Cool Black" LineColor="Rich Black" LinePenStyle="1" Path="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" gXpos="0.5" gYpos="0.5" gWidth="223.372" gHeight="97.8976" Layer="0"/>
+        <PageObject XPosition="1040.78260869565" YPosition="1387.57293913044" OwnPage="2" ItemID="115787853" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="1.46860869565194" gYpos="1.47053913043487" gWidth="223.372" gHeight="97.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Defend"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Reduces damage taken until next turn"/>
+                <trail ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1039.814" YPosition="1274.6024" OwnPage="2" ItemID="630049149" ItemType="6" Width="222.372" Height="96.8976" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Cool Black" LineColor="Rich Black" LinePenStyle="1" Path="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" gXpos="0.5" gYpos="0.5" gWidth="223.372" gHeight="97.8976" Layer="0"/>
+        <PageObject XPosition="1040.78260869565" YPosition="1275.57293913044" OwnPage="2" ItemID="1811287330" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="1.46860869565194" gYpos="1.47053913043487" gWidth="223.372" gHeight="97.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Create Construct"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Special Abilities menu"/>
+                <para ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Replaces Henshin"/>
+                <para ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="773.814" YPosition="1506.6024" OwnPage="2" ItemID="185064964" ItemType="6" Width="222.372" Height="96.8976" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Cool Black" LineColor="Rich Black" LinePenStyle="1" Path="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L213.372 0 C218.343 0 222.372 4.02944 222.372 9 L222.372 87.8976 C222.372 92.8682 218.343 96.8976 213.372 96.8976 L9 96.8976 C4.02944 96.8976 0 92.8682 0 87.8976 L0 9 Z" gXpos="0.500000000000114" gYpos="232.5" gWidth="489.372" gHeight="329.8976" Layer="0"/>
+        <PageObject XPosition="774.782608695652" YPosition="1507.57293913044" OwnPage="2" ItemID="1835685466" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="1.46860869565205" gYpos="233.470539130435" gWidth="489.372" gHeight="329.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Finisher"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Heavy attack with primary weapon"/>
+                <para ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Usable when opponent has low health"/>
+                <trail ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1040.78260869565" YPosition="1507.57293913044" OwnPage="2" ItemID="617683354" ItemType="4" Width="220.434782608696" Height="94.9565217391305" CornerRadius="9" FrameType="2" ClipEdited="0" LineWidth="1.7208" FillColor="Copy of Blue" LineColor="White" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="4.5" TextToFrameDistanceTop="4.32" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" ContourLinePath="M0 9 C0 4.02944 4.02944 0 9 0 L211.435 0 C216.405 0 220.435 4.02944 220.435 9 L220.435 85.9565 C220.435 90.9271 216.405 94.9565 211.435 94.9565 L9 94.9565 C4.02944 94.9565 0 90.9271 0 85.9565 L0 9 Z" gXpos="267.468608695652" gYpos="233.470539130435" gWidth="489.372" gHeight="329.8976" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle FontColor="White"/>
+                <Content Font="Gome Pixel Regular" FontSize="16" FontColor="White" Chars="Combo Finisher"/>
+                <para Parent="Header 2"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Heavier attack"/>
+                <para ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Gome Pixel Regular" FontSize="12" Chars="Usable when opponent has low health and ally is in range"/>
+                <trail ParagraphEffectOffset="4.5" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="892" OwnPage="2" ItemID="49773997" ItemType="4" Width="532" Height="28.8" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 28.8 L0 28.8 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 28.8 L0 28.8 L0 0 Z" gXpos="752" gYpos="892" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Game Interface"/>
+                <trail Parent="Header 1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="920.8" OwnPage="2" ItemID="219229334" ItemType="4" Width="532" Height="240.001530434783" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 240.002 L0 240.002 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 240.002 L0 240.002 L0 0 Z" gXpos="752" gYpos="920.8" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Combat Interface"/>
+                <para Parent="Header 2"/>
+                <Content Chars="The combat interface takes inspiration from JRPGs like Persona 5 (interface pictured below). Like Persona 5, the menu should take advantage of all face buttons rather than the more traditional method using the arrow keys to select an option, with a single “confirm” button. "/>
+                <para/>
+                <Content Chars="The colors of the interface will be bright and appear to be plastic, in the style of the toyetic weapons used in tokusatsu shows. In the event of a submenu, as in the “Create Construct” action, submenu content will replace the main menu. "/>
+                <para/>
+                <Content Chars="The interface will also contain the party members’ health, stamina, and any status effects they are under. This section will be out of the way but still visible, likely in the top right corner. The currently acting character’s information will be larger to draw attention and make it easier for players to locate. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1094.60869565217" YPosition="1040.80076521739" OwnPage="2" ItemID="878666875" ItemType="2" Width="189.391304347826" Height="120.000765217392" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" TextFlowMode="1" ImageScaleX="0.310987363461126" ImageScaleY="0.310987363461126" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="P5interface.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L189.391 0 L189.391 120.001 L0 120.001 L0 0 Z" ContourLinePath="M0 0 L189.391 0 L189.391 120.001 L0 120.001 L0 0 Z" gXpos="1094.60869565217" gYpos="1040.80076521739" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="1902.32" OwnPage="3" ItemID="421747559" ItemType="4" Width="128.5" Height="254.217391304347" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L128.5 0 L128.5 254.217 L0 254.217 L0 0 Z" ContourLinePath="M0 0 L128.5 0 L128.5 254.217 L0 254.217 L0 0 Z" gXpos="140" gYpos="1902.32" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Rin"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="They/Them"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="41"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Asexual/Aromantic"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="366.152173913043" YPosition="1905.82" OwnPage="3" ItemID="1976717234" ItemType="4" Width="301.04347826087" Height="180.68" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 180.68 L0 180.68 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 180.68 L0 180.68 L0 0 Z" gXpos="-4.80434782608654" gYpos="3.50000000000023" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="5' 6&quot;"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="130 lbs."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="458.608695652174" YPosition="1950.17391304348" OwnPage="3" ItemID="1092736055" ItemType="4" Width="210.260869565217" Height="132.826086956522" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 132.826 L0 132.826 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 132.826 L0 132.826 L0 0 Z" gXpos="87.6521739130434" gYpos="47.8539130434776" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Open flannel, band tee, jeans, high-top canvas sneakers"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Light armor with a musical theme. Primary weapon: guitar-shaped axe."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="2156.53739130435" OwnPage="3" ItemID="466635111" ItemType="4" Width="266" Height="279.462608695653" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L266 0 L266 279.463 L0 279.463 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 279.463 L0 279.463 L0 0 Z" gXpos="140" gYpos="2156.53739130435" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Rin is a millennial and grew up during the early days of the Internet. They have a small group of friends who they are intensely dedicated to, but do not get to see as much as they would like. They are considered the “realistic” one in the friend group. Their down-to-earth nature and way of seeing all sides of an issue have made them the de facto judge when conflicts arise.  "/>
+                <para/>
+                <Content Chars="They struggle to find their place in the world, never finding their calling despite years of searching. They are a hobby musician but have never felt a pull toward music as a profession. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="1903.52" OwnPage="4" ItemID="1196634649" ItemType="4" Width="133" Height="254.2176" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L133 0 L133 254.218 L0 254.218 L0 0 Z" ContourLinePath="M0 0 L133 0 L133 254.218 L0 254.218 L0 0 Z" gXpos="140" gYpos="1903.52" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Morgan"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="She/Her"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Late 30s"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Bisexual"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="982.956521739135" YPosition="1907.76592885376" OwnPage="4" ItemID="1003830505" ItemType="4" Width="301.04347826087" Height="185.827826086957" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 185.828 L0 185.828 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 185.828 L0 185.828 L0 0 Z" gXpos="5.00222085975111e-12" gYpos="4.2459288537566" gWidth="301.04347826087" gHeight="199.304347826087" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="5' 6&quot;"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="200 lbs"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1073.47826086957" YPosition="1950.78097391304" OwnPage="4" ItemID="1666592209" ItemType="4" Width="210.260869565217" Height="142.436417391305" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 142.436 L0 142.436 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 142.436 L0 142.436 L0 0 Z" gXpos="90.521739130435" gYpos="47.2609739130432" gWidth="301.04347826087" gHeight="199.304347826087" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Army jacket, band tee, torn jeans, leather boots"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Padded armor/heavy boots with a fire and metal theme. Primary weapon: oversized gauntlets"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="463.478260869565" YPosition="2236.69565217391" OwnPage="3" ItemID="1634876872" ItemType="4" Width="208.521739130435" Height="199.304347826087" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 199.304 L0 199.304 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 199.304 L0 199.304 L0 0 Z" gXpos="463.478260869565" gYpos="2236.69565217392" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Heartfelt Plea "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Chance to convince enemy to disengage; chance of success increases inverse to enemy health"/>
+                <para/>
+                <Content Chars="Inspire Ally"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Grant a bonus to an ally's next action"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1075.47826086957" YPosition="2237.34782608696" OwnPage="4" ItemID="406806661" ItemType="4" Width="208.521739130435" Height="199.304347826087" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 199.304 L0 199.304 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 199.304 L0 199.304 L0 0 Z" gXpos="463.478260869565" gYpos="2237.34782608696" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Exploit Vulnerability "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Increases damage done on next turn"/>
+                <para/>
+                <Content Chars="Change Stance"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Offensive Stance: Increases base damage done"/>
+                <para/>
+                <Content Chars="Defensive Stance: decreases base damage taken"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="2735.52" OwnPage="5" ItemID="1964013020" ItemType="4" Width="128.5" Height="258.545217391305" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L128.5 0 L128.5 258.545 L0 258.545 L0 0 Z" ContourLinePath="M0 0 L128.5 0 L128.5 258.545 L0 258.545 L0 0 Z" gXpos="140" gYpos="1903.52" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Colin"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="He/Him"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Mid-30s"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Gay"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="370.957000000008" YPosition="2738.52" OwnPage="5" ItemID="731269942" ItemType="4" Width="301.042999999992" Height="166.434999999967" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 166.435 L0 166.435 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 166.435 L0 166.435 L0 0 Z" gXpos="0.000478260878253423" gYpos="-22.8713043478269" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="6'1&quot;"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="220 lbs."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="461.739464471409" YPosition="2782.12873955067" OwnPage="5" ItemID="635070915" ItemType="4" Width="210.26053552859" Height="119.826260449295" FrameType="0" ClipEdited="0" LineWidth="1.0000013061649" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 119.826 L0 119.826 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 119.826 L0 119.826 L0 0 Z" gXpos="90.7830869565303" gYpos="20.7373913043464" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Black or blue business suit, fun tie"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Heavy armor with a book theme. Primary weapon: tower shield"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="2994.0652173913" OwnPage="5" ItemID="1435324191" ItemType="4" Width="266" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" gXpos="140" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Colin works in a generic office setting. His friends often speculate on what his job is, but it is too boring for them to investigate. He is the only person in his friend group with a “traditional” job. He took it to support Carter through college and stayed to provide financial security for his family. He dreams of being an author “someday.” "/>
+                <para/>
+                <Content Chars="Colin is married to Carter. The two are the epitome of “opposites attract” from the outside. Colin appears to be reserved, but his friends know that he loves fiercely and always seeks to protect those he cares about. He has a very dry sense of humor and will roast you with a straight face. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="462.608862670487" YPosition="2994.0652173913" OwnPage="5" ItemID="1868797404" ItemType="4" Width="208.521739130435" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" gXpos="462.608862670487" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Cover Ally"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Redirects next attack against an ally to Rainbow Yellow instead "/>
+                <para/>
+                <Content Chars="Taunt"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Enemies focus on Rainbow Yellow and take a penalty to any attack made against other characters "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="2735.52" OwnPage="6" ItemID="1025734658" ItemType="4" Width="128.5" Height="258.545217391305" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L128.5 0 L128.5 258.545 L0 258.545 L0 0 Z" ContourLinePath="M0 0 L128.5 0 L128.5 258.545 L0 258.545 L0 0 Z" gXpos="140" gYpos="1903.52" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Carter"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="He/Him"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Mid-30s"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Gay"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="2995.52010869563" OwnPage="6" ItemID="1389700203" ItemType="2" Width="266" Height="272.479891304366" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Green BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L266 0 L266 272.48 L0 272.48 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 272.48 L0 272.48 L0 0 Z" gXpos="752" gYpos="2995.52010869563" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="982.957000000008" YPosition="2736.0852173913" OwnPage="6" ItemID="297889098" ItemType="2" Width="301.042999999992" Height="178.9147826087" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Green BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L301.043 0 L301.043 178.915 L0 178.915 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 178.915 L0 178.915 L0 0 Z" gXpos="982.957000000008" gYpos="2736.0852173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="1073.73946447141" YPosition="2995.52010869563" OwnPage="6" ItemID="1724188358" ItemType="2" Width="210.260535528591" Height="272.479891304366" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-90.7824644714015" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Green BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L210.261 0 L210.261 272.48 L0 272.48 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 272.48 L0 272.48 L0 0 Z" gXpos="1073.73946447141" gYpos="2995.52010869563" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="978.457000000008" YPosition="2739.52" OwnPage="6" ItemID="1106348053" ItemType="4" Width="301.042999999992" Height="179.48" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 179.48 L0 179.48 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 179.48 L0 179.48 L0 0 Z" gXpos="-4.49952173912175" gYpos="-21.8713043478269" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="5'3&quot;"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="110 lbs."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1068.73946447141" YPosition="2782.1737395507" OwnPage="6" ItemID="475456419" ItemType="4" Width="210.26053552859" Height="132.826260449295" FrameType="0" ClipEdited="0" LineWidth="1.0000013061649" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 132.826 L0 132.826 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 132.826 L0 132.826 L0 0 Z" gXpos="85.783086956531" gYpos="20.7823913043792" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Graphic tee, jeans, sneakers"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Asymmetrical, heavily stylized, glowing visor, sharp points. Primary weapon: Blaster"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="2994.0652173913" OwnPage="6" ItemID="1344489907" ItemType="4" Width="266" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" gXpos="140" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Carter is an elementary school art teacher. He grew up watching "/>
+                <Content Font="Exo 2 Italic" Chars="Power Rangers"/>
+                <Content Chars=" and never lost his love for multi-colored costumed hero teams. This love inspired him to explore the history of "/>
+                <Content Font="Exo 2 Italic" Chars="Super Sentai"/>
+                <Content Chars=", the Japanese show that inspired "/>
+                <Content Font="Exo 2 Italic" Chars="Power Rangers"/>
+                <Content Chars=". He has collected a ton of action figures, morphers, and other toys. He hopes to share these with his children someday. "/>
+                <para/>
+                <Content Chars="Carter’s enthusiasm is infectious, especially when he is talking about his special interests. He speaks about things he loves with a passion that can melt even the iciest demeanor.  "/>
+                <para/>
+                <Content Chars="He is married to Colin. He feels guilty that Colin works in a boring office job to help get him through school and support their family. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="3568.43304347826" OwnPage="7" ItemID="1768152024" ItemType="2" Width="133" Height="257.632173913044" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Test BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L133 0 L133 257.632 L0 257.632 L0 0 Z" ContourLinePath="M0 0 L133 0 L133 257.632 L0 257.632 L0 0 Z" gXpos="140" gYpos="3568.43304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="1074.60886267049" YPosition="2994.0652173913" OwnPage="6" ItemID="636099337" ItemType="4" Width="208.521739130435" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" gXpos="462.608862670487" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Change Script"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Reaction ability; impose a penalty on the triggering action made by an enemy"/>
+                <para/>
+                <Content Chars="Casting Call"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Summons &quot;extras&quot; for a single attack against an enemy"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="3568.43304347826" OwnPage="7" ItemID="64567018" ItemType="4" Width="128.5" Height="257.632173913044" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L128.5 0 L128.5 257.632 L0 257.632 L0 0 Z" ContourLinePath="M0 0 L128.5 0 L128.5 257.632 L0 257.632 L0 0 Z" gXpos="140" gYpos="1904.43304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Liz"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="She/Her"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Early 40s"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Lesbian"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="365.957000000008" YPosition="3568.43304347826" OwnPage="7" ItemID="487443165" ItemType="2" Width="301.042999999992" Height="187.045217391306" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Test BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L301.043 0 L301.043 187.045 L0 187.045 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 187.045 L0 187.045 L0 0 Z" gXpos="365.957000000008" gYpos="3568.43304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="365.957000000008" YPosition="3571.93304347826" OwnPage="7" ItemID="1762648099" ItemType="4" Width="301.042999999992" Height="183.588695652176" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 183.589 L0 183.589 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 183.589 L0 183.589 L0 0 Z" gXpos="-5" gYpos="3.5" gWidth="301.042999999992" gHeight="175.56695652174" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="5'"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="100 lbs."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="3826.0652173913" OwnPage="7" ItemID="819414166" ItemType="2" Width="266" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Test BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" gXpos="140" gYpos="3826.0652173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="455.113210496575" YPosition="3614.04178302893" OwnPage="7" ItemID="1063480439" ItemType="4" Width="210.26053552859" Height="141.958216971068" FrameType="0" ClipEdited="0" LineWidth="1.0000013061649" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 141.958 L0 141.958 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 141.958 L0 141.958 L0 0 Z" gXpos="84.1562104965666" gYpos="45.608739550672" gWidth="301.042999999992" gHeight="175.56695652174" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Video game graphic tee, jeans, canvas sneakers, backpack"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content FontSize="12" Chars="Light armor with pixelated accents and visible circuitry. Primary weapon: Ranged (various)"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1070.10886267049" YPosition="3821.5652173913" OwnPage="8" ItemID="717223878" ItemType="2" Width="213.891137329513" Height="278.434782608696" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="-318.108862670487" ImageOffsetY="-254.045217391304" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Purple BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L213.891 0 L213.891 278.435 L0 278.435 L0 0 Z" ContourLinePath="M0 0 L213.891 0 L213.891 278.435 L0 278.435 L0 0 Z" gXpos="1070.10886267049" gYpos="3821.5652173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="461.739464471409" YPosition="3821.5652173913" OwnPage="7" ItemID="1980870643" ItemType="2" Width="210.260535528591" Height="278.434782608696" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Test BG.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L210.261 0 L210.261 278.435 L0 278.435 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 278.435 L0 278.435 L0 0 Z" gXpos="461.739464471409" gYpos="3821.5652173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="3826.0652173913" OwnPage="7" ItemID="2117759856" ItemType="4" Width="266" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" gXpos="140" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Liz is a former gifted kid. She is a software engineer for a Silicon Valley tech startup. She works remotely and is very efficient, which gives her extra time to work on her own projects. She has ADHD and several unfinished projects that she lost interest in. She knows that she is meant to do something amazing but doesn’t know what it is. She is very nerdy and loves both video games and comic books. "/>
+                <para/>
+                <Content Chars="Liz is a lesbian and currently unpartnered. She often bemoans the dating landscape of her city and the dating apps she uses to find companionship, but she doesn’t stop searching for her true love. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="462.608862670486" YPosition="3826.0652173913" OwnPage="7" ItemID="77119549" ItemType="4" Width="208.521739130435" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" gXpos="462.608862670486" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Observe"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Learn a “Create Construct” skill from enemy that persists through fights; similar to "/>
+                <Content Font="Exo 2 Italic" Chars="Final Fantasy"/>
+                <Content Chars="’s Blue Mage "/>
+                <para/>
+                <Content Chars="Aim"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Next turn, automatically perform Attack with significantly increased damage"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="3568.43304347826" OwnPage="8" ItemID="2115259138" ItemType="4" Width="128.5" Height="257.632173913044" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L128.5 0 L128.5 257.632 L0 257.632 L0 0 Z" ContourLinePath="M0 0 L128.5 0 L128.5 257.632 L0 257.632 L0 0 Z" gXpos="140" gYpos="1904.43304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Identity"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Civilian Name "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Zephir"/>
+                <para/>
+                <Content Chars="Pronouns"/>
+                <para Parent="Header 3"/>
+                <Content Chars="They/Them"/>
+                <para/>
+                <Content Chars="Age"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Late 30s"/>
+                <para/>
+                <Content Chars="Orientation"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Pansexual"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="978.457000000008" YPosition="3571.46654368838" OwnPage="8" ItemID="311045323" ItemType="4" Width="301.042999999992" Height="187.565173492808" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L301.043 0 L301.043 187.565 L0 187.565 L0 0 Z" ContourLinePath="M0 0 L301.043 0 L301.043 187.565 L0 187.565 L0 0 Z" gXpos="-4.49952173912175" gYpos="-21.9247606594485" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Appearance"/>
+                <para/>
+                <Content Chars="Height"/>
+                <para Parent="Header 3"/>
+                <Content Chars="5'3&quot;"/>
+                <para/>
+                <Content Chars="Weight"/>
+                <para Parent="Header 3"/>
+                <Content Chars="220 lbs."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1066.73946447141" YPosition="3614.04" OwnPage="8" ItemID="283443173" ItemType="4" Width="210.26053552859" Height="141.958216971068" FrameType="0" ClipEdited="0" LineWidth="1.0000013061649" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L210.261 0 L210.261 141.958 L0 141.958 L0 0 Z" ContourLinePath="M0 0 L210.261 0 L210.261 141.958 L0 141.958 L0 0 Z" gXpos="83.7830869565305" gYpos="20.6486517536744" gWidth="301.04347826087" gHeight="166.434782608696" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content FontSize="14" Chars="Human Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Alternates between dress and casual sportswear"/>
+                <para/>
+                <Content FontSize="14" Chars="Superhero Form"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Light armor with cloak and comedy/tragedy mask helmet. Primary weapon: Form changing dagger/pistol"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="3826.0652173913" OwnPage="8" ItemID="946463453" ItemType="4" Width="266" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L266 0 L266 273.935 L0 273.935 L0 0 Z" gXpos="140" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="Backstory"/>
+                <para Parent="Header 1"/>
+                <Content Chars="Zephir is an actor. They work primarily as a company player in a local children’s theatre but have also acted in more traditional plays. They believe that the most important truths can only be told through fiction. "/>
+                <para/>
+                <Content Chars="They are pansexual and currently unpartnered. They were previously in a relationship with Rin, which ended due to differing needs. They remain friends with Rin, but the relationship has not gotten back to where it was previously. They feel like they are on the edges of the friend group following the dissolution of the relationship. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="1074.60886267049" YPosition="3826.0652173913" OwnPage="8" ItemID="364157682" ItemType="4" Width="208.521739130435" Height="273.934782608696" FrameType="0" ClipEdited="0" LineWidth="9" LineColor="Black" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" ContourLinePath="M0 0 L208.522 0 L208.522 273.935 L0 273.935 L0 0 Z" gXpos="462.608862670487" gYpos="2162.06521739131" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Bebas Neue Regular" FontSize="24" Chars="SPECIAL ABILITIES"/>
+                <para Parent="Header 2"/>
+                <Content Chars="Hide"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Decreased likelihood of being targeted; changes to Surprise Attack while in effect"/>
+                <para/>
+                <Content Chars="Surprise Attack"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Inflict a status debuff on the enemy  based on weapon mode. Dagger: Stun, Gun: Slow"/>
+                <para/>
+                <Content Chars="Weapon Mode"/>
+                <para Parent="Header 3"/>
+                <Content Chars="Changes primary weapon mode between dagger and gun"/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140" YPosition="4220" OwnPage="9" ItemID="1754655207" ItemType="4" Width="532" Height="356" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 356 L0 356 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 356 L0 356 L0 0 Z" gXpos="140" gYpos="4220" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Sample Levels"/>
+                <para Parent="Header 1"/>
+                <Content Chars="The Hook: An Ordinary Night Out"/>
+                <para Parent="Header 2"/>
+                <Content Chars="As the game begins, a group of six friends are exploring a park inside a moderately sized city. Players can travel around the park and explore its various features, such as the pond, the dog park, and the playground. When they approach the playground, a loud crash is heard from the nearby woods, which begins the level’s primary objective: investigating the disturbance. "/>
+                <para/>
+                <Content Chars="Following the sound takes the player to a small walking path that eventually leads to a meteor crash site. There are small fires around, showing that it recently crashed and leading our players to believe (correctly) that this was the source of the noise. When the players get close to the meteor, it cracks open, and six slug-like creatures shoot out, one going to each character. The characters panic but are unable to react before the slugs disappear into their skin directly atop their spines. This event serves as the catalyst that provides players’ powers and is an indirect introduction to the biocomputers that support the cast of protagonist characters. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para/>
+                <Content Chars="The player’s emotional journey through this level takes them from comfort to curiosity to wonder. The characters are comfortable as the game starts, spending time with their long-time friends doing a routine thing. Players are given the opportunity to explore and bring curiosity to the world around them, which is punctuated by the sound of crashing that causes them to investigate. Then there is a sense of wonder as the players experience an event that is not yet explained but fantastical in nature. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="306.347826086957" YPosition="4576" OwnPage="9" ItemID="2069385893" ItemType="2" Width="199.304347826087" Height="356" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.184541062801932" ImageScaleY="0.184541062801932" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="sammi_map_1.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L199.304 0 L199.304 356 L0 356 L0 0 Z" ContourLinePath="M0 0 L199.304 0 L199.304 356 L0 356 L0 0 Z" gXpos="306.347826086957" gYpos="4576" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="4220" OwnPage="10" ItemID="2147480635" ItemType="4" Width="532" Height="400.521739130436" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 400.522 L0 400.522 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 400.522 L0 400.522 L0 0 Z" gXpos="752" gYpos="4220" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Plot Point: First Combat "/>
+                <para Parent="Header 2"/>
+                <Content Chars="Between the opening level and the beginning of this level, players have discovered their powers and the biocomputers that are now permanently bonded to them but have not yet used their powers in any kind of combat scenario. "/>
+                <para/>
+                <Content Chars="The level begins with the players arriving at a local shopping area where a monster is attacking civilians. This is their first experience with the monstrous forces of the game, which causes them to hesitate. In their time of indecision, the monster smashes the fountain and injures innocent people, which drives the team to act. They rush in to fight the monster, winning easily. This level also serves as a combat tutorial, so the player is guided through the fight to ensure a relatively easy victory. "/>
+                <para/>
+                <Content Chars="After the fight, the team spends some time discussing the damage and devastation around them. Players can either leave immediately after this discussion or stay to help the injured and assist with cleanup. Staying will increase the public’s perception of the team, which will have mechanical benefits later in the game. Whether they leave immediately or stay to assist, the team eventually separates to think about the situation they find themselves in. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Players begin this level with uncertainty, as they have not yet been given an opportunity to use their new powers. That uncertainty leads to urgency as the players are required to save civilians who are under threat and not prepared. The music will underscore this urgency. As the level teaches them how combat works, players will be empowered to complete the fight on their own with the knowledge they have been granted. Finally, the players are given the opportunity to feel responsibility by giving them the option to stay and help their community and being exposed to the Reputation system for the first time. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="907.887026210849" YPosition="4620.52173913044" OwnPage="10" ItemID="82754584" ItemType="2" Width="220.225947578303" Height="311.478260869564" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.277362654380734" ImageScaleY="0.277362654380734" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="sammi_map_2.png" ImageColorimetricIntent="0" UseEmbeddedProfile="0" Path="M0 0 L220.226 0 L220.226 311.478 L0 311.478 L0 0 Z" ContourLinePath="M0 0 L220.226 0 L220.226 311.478 L0 311.478 L0 0 Z" gXpos="907.887026210849" gYpos="4620.52173913044" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="5052" OwnPage="11" ItemID="1733624296" ItemType="4" Width="532" Height="325.043478260871" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 325.043 L0 325.043 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 325.043 L0 325.043 L0 0 Z" gXpos="140" gYpos="5052" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Pinch Point: Introduction to the Villain "/>
+                <para Parent="Header 2"/>
+                <Content Chars="By this point, the team has been operating for a bit of time. Players have been able to explore and fight battles with monsters but do not know where they are coming from. "/>
+                <para/>
+                <Content Chars="This level begins with the team arriving at the Pier, discovering what they believe to be just another average monster attack. They engage with the monster as normal, but just before the monster is defeated, it is joined by a large, menacing creature. This creature is more intentional than the monsters they have faced previously, and they have never had to face more than one monster at a time (excluding mooks). This changes the flow of battle completely and turns what was nearly a victory into a crushing defeat. "/>
+                <para/>
+                <Content Chars="Following the battle, the newcomer introduces themselves as Vince O'Ruin. He mocks the team’s strength, remarking that they “don’t know why they were worried” and that they “won’t debase themselves further by killing such weaklings.” The team leaves, having suffered their first defeat and learning that there are much larger forces at play than they knew. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="By this point in the game, players should feel confident about their abilities. They have yet to be truly tested either in combat or in the narrative. That confidence turns into shock when they experience the main villain, Vince O’Ruin, for the first time. After their crushing defeat, they will feel somewhat helpless but determined to improve. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="268.260869565217" YPosition="5377.04347826087" OwnPage="11" ItemID="303036672" ItemType="2" Width="275.478260869565" Height="386.956521739129" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.344573928529946" ImageScaleY="0.344573928529946" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="sammi_map_3.png" ImageColorimetricIntent="0" UseEmbeddedProfile="0" Path="M0 0 L275.478 0 L275.478 386.957 L0 386.957 L0 0 Z" ContourLinePath="M0 0 L275.478 0 L275.478 386.957 L0 386.957 L0 0 Z" gXpos="268.260869565217" gYpos="5377.04347826087" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="752" YPosition="5052" OwnPage="12" ItemID="1786397079" ItemType="4" Width="532" Height="514.956521739132" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 514.957 L0 514.957 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 514.957 L0 514.957 L0 0 Z" gXpos="752" gYpos="5052" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Midpoint: Assault on Enemy Stronghold "/>
+                <para Parent="Header 2"/>
+                <Content Chars="After a series of battles with the monsters that are attacking the city, the team is tired of not making any progress on ending the threat for good. They know they can’t just react but need to find a way to be proactive about the conflict. With this goal, they put their efforts toward locating the villain’s base. "/>
+                <para/>
+                <Content Chars="They catch a lucky break when a monster steps out of a portal in front of them. Alpha, the biocomputer bonded to Rin, scans the monster and determines that the monsters are coming from a pocket dimension, which explains how they just appear without anyone seeing them beforehand. The data they gather is enough to recreate the dimensional frequency, which allows them to access the villain’s stronghold. "/>
+                <para/>
+                <Content Chars="The team is shocked to discover that the villain’s lair is not a ruined temple or an opulent castle, but is instead a standard, almost boring office building. They take the elevator to the floor where Vince O'Ruin’s office is located, and search for any information on the villain’s plans or how to stop him. They discover that the villain’s goal is to connect Earth to his company’s Head Office and strip it of resources. They also discover that he has done this to other planets, including the one the biocomputers came from. "/>
+                <para/>
+                <Content Chars="When the players are ready to leave, they discover a veritable army of mooks waiting for them in the lobby. No matter how hard the player fights, more enemies always appear, so it is impossible for them to fight their way out of the scenario. The only way to end it is to go through the gauntlet and escape through the portal. When the players finally make it through the portal, it closes behind them. This is when they discover that Zephir did not make it through the portal and was left behind. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="The determination from the players’ introduction to the villain may be waning by now, so the player is provided with an opportunity to assault their headquarters, effectively reigniting that determination. Once again, players are faced with an opportunity to explore an area, though this time it is with a goal in mind, so the curiosity is tempered but remains as a feeling of discovery. When players are ambushed on the way out, there is pressure, both literally from the press of enemies around them and emotionally from the need to escape. Once the team is through the gauntlet, players will experience loss with the surprise (presumably unwilling) departure of Zephir. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="878.603726708074" YPosition="5566.95652173913" OwnPage="12" ItemID="1802513906" ItemType="2" Width="278.792546583851" Height="197.043478260868" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.248165589749204" ImageScaleY="0.248165589749204" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="sammi_map_4.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L278.793 0 L278.793 197.043 L0 197.043 L0 0 Z" ContourLinePath="M0 0 L278.793 0 L278.793 197.043 L0 197.043 L0 0 Z" gXpos="878.603726708074" gYpos="5566.95652173913" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="5884" OwnPage="13" ItemID="674650229" ItemType="4" Width="532" Height="415.478260869567" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 415.478 L0 415.478 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 415.478 L0 415.478 L0 0 Z" gXpos="140" gYpos="5884" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Pinch Point: Betrayal "/>
+                <para Parent="Header 2"/>
+                <Content Chars="Following the loss of Zephir, the team gathers in their unofficial sanctum, Morgan’s apartment/studio. They are discussing how they will rescue Zephir when the front door opens and they walk in. The team is overjoyed and celebrates, but it is cut short when they get word of a monster attack at a tech company’s offices downtown. The team gathers in the garage to head out, but Zephir attacks without warning. Zephir is significantly stronger than they had been and ends the fight quickly. "/>
+                <para/>
+                <Content Chars="Zephir monologues before leaving, saying that they are happy they don’t have to pretend to be friends with these weak, indecisive losers. They say that if they had waited on the team to rescue them, they would have died in that pocket dimension and they are glad they joined the winning team finally. They are particularly brutal to Rin, with whom they were previously in a romantic relationship. They also let slip that they couldn’t risk the team interrupting their attack on the tech company, so Zephir was sent to take them out of commission. "/>
+                <para/>
+                <Content Chars="After Zephir leaves, the team is disheartened and distraught. They have lost both a friend and a teammate, who is suddenly way more powerful than they are. Rin believes there is more to the story than just Zephir turning traitor but agrees that they need enough power to defend themselves and their community either way. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="Players begin this level feeling a mix of confusion, shock, and grief at the loss of a main character. When Zephir returns, they will experience immediate relief, but that is snatched away as Zephir assaults them. Following their defeat, players will once again feel helpless and vulnerable, unsure of how to move forward. They have been attacked in their own home by someone they thought was a friend, and the uncertainty that causes both players and characters should feel equally impactful. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752" YPosition="5884" OwnPage="14" ItemID="1398940813" ItemType="4" Width="532" Height="473.913043478263" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 473.913 L0 473.913 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 473.913 L0 473.913 L0 0 Z" gXpos="752" gYpos="5884" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Plot Point: Visiting Synthax One "/>
+                <para Parent="Header 2"/>
+                <Content Chars="The biocomputers tell the team about a possible path to upgrading their powers, but that it will be dangerous. The biocomputers have been bonded to the team long enough to have completed the calculations for a portal back to their home planet, but that planet is plagued by war. They know that the Central Terminal should be able to increase their throughput, but for security purposes they were not programmed with the location of the terminal. They also won’t have access to their powers while on the planet, since the biocomputers will need to recover enough energy to get them home. The team agrees, and the biocomputers work together to open a portal to their home planet. "/>
+                <para/>
+                <Content Chars="On Synthax One, players can explore the area and have a few points of interest to discover. There are burned out farms, the remains of a recently fought battle, and a village. There is little to see on the farms. If the player goes to the battlefield, they are asked to help evacuate wounded to the local village. They can also speak with soldiers to learn more about the war the planet has been fighting with the villain and why Vince O'Ruin is trying to steal resources from these planets. "/>
+                <para/>
+                <Content Chars="In the village, players find clues to the location of the Central Terminal which leads them to a dangerous mountain. The team must fight several battles without access to their powers but eventually find the ruins that house the Central Terminal at the peak of the mountain. The biocomputers interface with the terminal and access increased processing power, which gives the team a new battle form and more powerful constructs.  "/>
+                <para/>
+                <Content Chars="The players return to the portal where they arrived and make a vow to each other and their biocomputer partners to return when Earth is safe. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="On Synthax One, players are forced to play without their special abilities for the first time. This leaves them feeling vulnerable and anxious. As they explore, they will experience wonder and discovery as they see a fully alien world that is completely unlike Earth. Upon finding the information they need, players will be determined to get the new power despite their unpowered state. Once they have spoken to the Central Terminal, players will feel a sense of growth, not just from the power-up but from their new knowledge about the enemy. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="898.956521739132" YPosition="6357.91304347826" OwnPage="14" ItemID="248808655" ItemType="2" Width="238.086956521737" Height="238.086956521737" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.124003623188405" ImageScaleY="0.124003623188405" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="Synthax One Map 2.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L238.087 0 L238.087 238.087 L0 238.087 L0 0 Z" ContourLinePath="M0 0 L238.087 0 L238.087 238.087 L0 238.087 L0 0 Z" gXpos="898.956521739132" gYpos="6357.91304347826" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="140" YPosition="6716" OwnPage="15" ItemID="1256187971" ItemType="4" Width="532" Height="431.826086956524" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L532 0 L532 431.826 L0 431.826 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 431.826 L0 431.826 L0 0 Z" gXpos="140" gYpos="6716" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Chars="Resolution: The Observatory Showdown "/>
+                <para Parent="Header 2"/>
+                <Content Chars="The team has powered up just in time for Vince O'Ruin’s plans to enter their final stage. The team heads off to the observatory to put an end to the villainous plot to connect the worlds. "/>
+                <para/>
+                <Content Chars="On the road to the observatory is a cliffside quarry area (a traditional tokusatsu battle arena). Waiting to block the path is Zephir along with an army of mooks. The team battles Zephir, using their new battle forms to win. Rin has an emotional moment with Zephir immediately following the battle, which throws off the last bit of mind control that O'Ruin had over Zephir. Zephir is apologetic and ashamed but pushes past it to rejoin the team for the final conflict. "/>
+                <para/>
+                <Content Chars="The team enters the observatory and does battle with O'Ruin for the last time. It is a difficult battle, pushing each character to their limits. When the player finally defeats the boss, they shut down the process that would have connected the worlds. As they do so, they discover that a message was sent at the last moment, instructing Vince O'Ruin’s assistant to start “Operation Atlantis” on Synthax One. "/>
+                <para/>
+                <Content Chars="None of the team, including Zephir, know what Operation Atlantis is, but they know it must be trouble. The team prepares to return to Synthax One, knowing they won’t be returning to Earth for a long time, if at all. This serves as an open ending for the game as well as a setup for a potential sequel or DLC. "/>
+                <para/>
+                <Content Chars="Player Experience "/>
+                <para Parent="Header 3"/>
+                <Content Chars="As players begin the final level of the game, the determination they felt is still going strong. They have gotten more powerful and are feeling more confident in their abilities than ever. After defeating Zephir, they feel a moment of reconnection and wholeness that comes from reuniting as a team. Their battle with O’Ruin is hard-fought and will bring forward their mastery of their abilities and the game systems. The joy of victory follows, with the team celebrating their victory over the evil force. This lasts until the player discovers the message, which inspires a sense of anticipation and new purpose in them. "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="751.170731707317" YPosition="212.468612554978" OwnPage="0" ItemID="653830666" ItemType="2" Width="532" Height="407.72131147541" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.436065573770492" ImageScaleY="0.436065573770492" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="Rainbow Brigade Logo.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L532 0 L532 407.721 L0 407.721 L0 0 Z" ContourLinePath="M0 0 L532 0 L532 407.721 L0 407.721 L0 0 Z" gXpos="751.170731707317" gYpos="212.468612554978" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="851.707317073171" OwnPage="2" ItemID="703992946" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="3347.70731707317" OwnPage="7" ItemID="2005856942" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="4179.70731707317" OwnPage="10" ItemID="1946250978" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="5011.70731707317" OwnPage="11" ItemID="2027192463" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="5011.70731707317" OwnPage="12" ItemID="483894599" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="5843.70731707317" OwnPage="13" ItemID="1937619492" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="5843.70731707317" OwnPage="14" ItemID="1505319031" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="6675.70731707317" OwnPage="15" ItemID="124917901" ItemType="2" Width="611.785365853658" Height="792" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.24" ImageScaleY="0.24" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" ImagePageNumber="0" ImageFileName="Page Border.png" ImageProfile="Embedded sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" Path="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" ContourLinePath="M0 0 L611.785 0 L611.785 792 L0 792 L0 0 Z" gXpos="100" gYpos="851.707317073171" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="879.219512195122" YPosition="643.317073170732" OwnPage="0" ItemID="1730374553" ItemType="4" Width="288.585365853659" Height="145.756097560976" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L288.585 0 L288.585 145.756 L0 145.756 L0 0 Z" ContourLinePath="M0 0 L288.585 0 L288.585 145.756 L0 145.756 L0 0 Z" gXpos="879.219512195122" gYpos="643.317073170732" gWidth="0" gHeight="0" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1" FontColor="Silver" FillShade="100"/>
+                <Content FontColor="Silver" FillShade="100" Chars="TCID 392-50"/>
+                <para Alignment="1"/>
+                <Content FontColor="Silver" FillShade="100" Chars="Game, Level, and Character Design"/>
+                <para Alignment="1"/>
+                <Content FontColor="Silver" FillShade="100" Chars="Final Project"/>
+                <para Alignment="1"/>
+                <para Alignment="1"/>
+                <Content FontColor="Silver" FillShade="100" Chars="Samantha Korson"/>
+                <trail Alignment="1"/>
+            </StoryText>
+        </PageObject>
+    </Document>
+</SCRIBUSUTF8NEW>

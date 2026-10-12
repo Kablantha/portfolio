@@ -59,7 +59,7 @@ h1, h2 {
 
 /* ================= HEADER ================= */
 
-.project-header {
+.page-header {
   border: 3px solid var(--brown);
   padding: 2rem;
   background: #fff7eb;
@@ -153,6 +153,10 @@ nav a {
   margin-top: 0.5rem;
 }
 
+.monitor a {
+  text-decoration: underline solid var(--monitor-green);
+}
+
 /* ================= FOOTER ================= */
 
 footer {
@@ -162,4 +166,3 @@ footer {
   border-top: 6px double var(--orange);
   color: #6a5545;
 }
-``

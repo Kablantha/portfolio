@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.7.3">
+    <Document PageCount="3" PageWidth="432" PageHeight="648" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" MarginPreset="2" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" PageOrientation="0" PageSize="Custom" FirstPageNumber="1" PagePositioning="1" AutomaticTextFrameColumnCount="1" AutomaticTextFrameColumnGap="11" UnitIndex="2" FontFace="Arial Regular" FontSize="12" TextColumnCount="1" TextColumnGap="0" TabFillCharacter="" TabWidth="36" TextDistanceLeft="0" TextDistanceRight="0" TextDistanceBottom="0" TextDistanceTop="0" FirstLineOffset="1" DocumentInfoAuthor="" DocumentInfoComments="" DocumentInfoKeywords="" DocumentInfoPublisher="" DocumentInfoDate="" DocumentInfoType="" DocumentInfoFormat="" DocumentInfoIdentifier="" DocumentInfoSource="" DocumentInfoLanguage="" DocumentInfoRelation="" DocumentInfoCoverage="" DocumentInfoRights="" DocumentInfoContributors="" DocumentInfoTitle="" DocumentInfoSubject="" SuperScriptDisplacement="33" SuperScriptScaling="66" SubScriptDisplacement="33" SubScriptScaling="66" SmallCapsScaling="75" BaselineGridSpacing="14.4" BaselineGridOffset="0" AutoLineSpacingPct="100" UnderlinePosition="-1" UnderlineWidth="-1" StrikeThruPosition="-1" StrikeThruWidth="-1" GroupCounter="1" DocumentHasCMS="0" SoftProofOn="0" SoftProofFullOn="0" ColorManagementActive="0" GamutCheck="0" BlackPoint="1" DefaultPrinterProfile="ISO Coated v2 300% (basICColor)" DefaultImageRGBProfile="sRGB display profile (ICC v2.2)" DefaultImageCMYKProfile="ISO Coated v2 300% (basICColor)" DefaultSolidColorRGBProfile="sRGB display profile (ICC v2.2)" DefaultSolidColorCMYKProfile="ISO Coated v2 300% (basICColor)" DefaultIntentColors="1" DefaultIntentImages="0" ActiveLayer="0" Language="en_US" AutomaticHyphenation="1" AutomaticHyphenationCheck="0" GuideLock="0" SnapToGuides="1" SnapToGrid="0" SnapToItems="0" MinorGridSpacing="20" MajorGridSpacing="100" ShowGrid="1" ShowGuides="1" ShowColumnBorders="1" ShowFrames="1" ShowControls="0" ShowLayerMarkers="0" ShowMargins="1" ShowBaselineGrid="0" ShowImages="1" ShowLinks="0" RulerMode="1" ShowRulers="1" ShowBleed="1" RulerXOffset="0" RulerYOffset="0" GuideRadius="10" GrabRadius="4" PolygonCorners="4" PolygonFactor="0.5" PolygonRotation="0" PolygonInnerRotation="0" PolygonCurvature="0" PolygonOuterCurvature="0" PolygonUseFactor="0" ArcStartAngle="30" ArcSweepAngle="300" SpiralStartAngle="0" SpiralEndAngle="1080" SpiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AutoSaveInDocumentDirectory="1" AutoSaveDirectory="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" LineStartArrow="0" LineEndArrow="0" ShapeLineColor="Black" ShapeFillColor="None" LineColor="Black" TextColor="Black" TextStrokeColor="Black" TextBackgroundColor="None" TextLineColor="None" TextBackgroundColorShade="100" TextLineColorShade="100" TextColorShade="100" TextStrokeColorShade="100" ShapeLineStyle="1" LineStyle="1" ShapeLineWidth="1" LineWidth="1" ShapeLineColorShade="100" LineColorShade="100" ShapeFillColorShade="100" ImageFillColor="None" ImageFillColorShade="100" ImageStrokeColor="None" ImageStrokeColorShade="100" ImageScaleX="1" ImageScaleY="1" ImageScaleType="1" ImageAspectRatio="1" ImageUseEmbeddedPath="0" ImageLowResType="1" DisplayOffsetX="10" DisplayOffsetY="10" RotationConstrainAngle="15" MinorGridColor="#00ff00" MajorGridColor="#00ff00" GuidesColor="#000080" BaselineGridColor="#c0c0c0" RenderStack="2 0 4 1 3" GridType="0" PageColor="#ffffff" MarginColor="#0000ff" ShowMarginsFilled="0" CurrentProfile="PDF 1.4" CalligraphicPenFillColor="Black" CalligraphicPenLineColor="Black" CalligraphicPenFillColorShade="100" CalligraphicPenLineColorShade="100" CalligraphicPenLineWidth="1" CalligraphicPenAngle="0" CalligraphicPenWidth="10" CalligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.4" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.5" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF 1.6" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-1a" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="1" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-3" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="1" CheckFontNotEmbedded="1" CheckFontIsOpenType="1" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PDF/X-4" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="0" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="1" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="1" CheckFontNotEmbedded="1" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <CheckProfile Name="PostScript" IgnoreErrors="0" AutoCheck="1" CheckGlyphs="1" CheckOrphans="1" CheckOverflow="1" CheckPictures="1" CheckPartFilledImageFrames="0" CheckResolution="1" CheckTransparency="1" MinimumResolution="144" MaximumResolution="2400" CheckAnnotations="0" CheckRasterPDF="1" CheckForGIF="1" IgnoreOffLayers="0" CheckNotCMYKOrSpot="0" CheckDeviceColorsAndOutputIntent="0" CheckFontNotEmbedded="0" CheckFontIsOpenType="0" CheckAppliedMasterDifferentSide="1" CheckEmptyTextFrames="1" CheckImageHasProgressiveEncoding="0"/>
+        <Color Name="Background Booklet" Space="RGB" R="234" G="234" B="234"/>
+        <Color Name="Black" Space="CMYK" C="0" M="0" Y="0" K="100"/>
+        <Color Name="Blue" Space="RGB" R="0" G="0" B="255"/>
+        <Color Name="Booklet Yellow" Space="Lab" L="86.1" A="-9.48482409141653" B="65.820119355368"/>
+        <Color Name="Card Blue" Space="Lab" L="50.3" A="22.0002439608784" B="-77.7472138771662"/>
+        <Color Name="Card Green Bright" Space="Lab" L="67.4" A="-47.0821951607088" B="52.4739640092963"/>
+        <Color Name="Card Green Pale" Space="RGB" R="176" G="188" B="154"/>
+        <Color Name="Card Orange" Space="Lab" L="75.5" A="35.8874198104012" B="60.682312903778"/>
+        <Color Name="Card Red" Space="Lab" L="20.4" A="41.7686371754734" B="31.4749257108521"/>
+        <Color Name="Cool Black" Space="CMYK" C="60" M="0" Y="0" K="100"/>
+        <Color Name="Copy of Booklet Yellow" Space="RGB" R="251" G="248" B="56"/>
+        <Color Name="Cyan" Space="CMYK" C="100" M="0" Y="0" K="0"/>
+        <Color Name="Green" Space="RGB" R="0" G="255" B="0"/>
+        <Color Name="Magenta" Space="CMYK" C="0" M="100" Y="0" K="0"/>
+        <Color Name="Red" Space="RGB" R="255" G="0" B="0"/>
+        <Color Name="Registration" Space="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <Color Name="Rich Black" Space="CMYK" C="60" M="40" Y="40" K="100"/>
+        <Color Name="Warm Black" Space="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <Color Name="White" Space="CMYK" C="0" M="0" Y="0" K="0"/>
+        <Color Name="Yellow" Space="CMYK" C="0" M="0" Y="100" K="0"/>
+        <Hyphenator/>
+        <CharacterStyle Name="Default Character Style" DefaultStyle="1" Font="Intel One Mono Regular" FontSize="12" FontFeatures="-liga,-clig" Features="inherit" FontColor="Black" FillShade="100" HyphenWordMinimum="3" StrokeColor="Black" BackgroundColor="None" BackgroundShade="100" StrokeShade="100" TextShadowXOffset="5" TextShadowYOffset="-5" TextOutlineWidth="1" TextUnderlineOffset="-0.1" TextUnderlineWidth="-0.1" TextStrikeThroughOffset="-0.1" TextStrikeThroughWidth="-0.1" ScaleHorizontal="100" ScaleVertical="100" BaselineOffset="0" Kerning="0" Language="en_US"/>
+        <ParagraphStyle Name="Default Paragraph Style" DefaultStyle="1" Alignment="0" Direction="0" LineSpacingMode="0" LineSpacing="22" LeftMargin="0" RightMargin="0" FirstIndent="0" GapBefore="0" GapAfter="0" ParagraphEffectOffset="0" HasDropCap="0" DropCapLines="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" ParagraphBackgroundColor="None" ParagraphBackgroundColorShade="100" Font="Arial Regular" FontSize="16" FontFeatures="-clig"/>
+        <ParagraphStyle Name="Bulleted List" LeftMargin="0" RightMargin="0" FirstIndent="0" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" Language="en_US"/>
+        <ParagraphStyle Name="Faux Links" LeftMargin="36" RightMargin="0" FirstIndent="0" ParagraphEffectCharStyle="Default Character Style" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" BulletStr="•" Numeration="0" Features="underline" FontColor="Blue" TextShadowXOffset="5" TextShadowYOffset="-5" TextOutlineWidth="1" TextUnderlineOffset="-0.1" TextUnderlineWidth="-0.1" TextStrikeThroughOffset="-0.1" TextStrikeThroughWidth="-0.1" Language="en_US"/>
+        <ParagraphStyle Name="H2" Parent="Default Paragraph Style" GapBefore="8" GapAfter="4" Font="Arial Black" FontSize="20" FontFeatures="-liga,-clig"/>
+        <ParagraphStyle Name="New Style (2)" Language="en_US"/>
+        <ParagraphStyle Name="Paragraph Boxes" Parent="Default Paragraph Style" GapAfter="8"/>
+        <ParagraphStyle Name="Title" Alignment="1" HasDropCap="0" Bullet="0" Numeration="0" Features="smallcaps" TextShadowXOffset="5" TextShadowYOffset="-5" TextOutlineWidth="1" TextUnderlineOffset="-0.1" TextUnderlineWidth="-0.1" TextStrikeThroughOffset="-0.1" TextStrikeThroughWidth="-0.1" Language="en_US"/>
+        <TableStyle Name="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle Name="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1"/>
+        <Layers Number="0" Level="0" Name="Background" IsViewable="1" IsPrintable="1" IsEditable="1" IsSelectable="0" FlowControl="1" Transparency="1" BlendMode="0" OutlineMode="0" LayerColor="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Microsoft Print to PDF" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Arial Black"/>
+            <Fonts Name="Intel One Mono Bold"/>
+            <Fonts Name="Intel One Mono Medium Italic"/>
+            <Subset Name="Arial Bold"/>
+            <Subset Name="Arial Italic"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Intel One Mono Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <Indexes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <OpticalMarginSets>
+            <Set Id="preset_0" Type="preset" Name="Default">
+                <Rules>
+                    <Rule Left="0" Right="0.5" Unit="7" Characters="U+003A,U+003B,U+2013,U+2033"/>
+                    <Rule Left="0" Right="0.75" Unit="7" Characters="U+002C,U+002D,U+002E,U+2010,U+2032"/>
+                    <Rule Left="0.25" Right="0.25" Unit="7" Characters="U+2014"/>
+                    <Rule Left="0.5" Right="0" Unit="7" Characters="U+2036"/>
+                    <Rule Left="0.5" Right="0.5" Unit="7" Characters="U+0022,U+0028,U+0029,U+005B,U+005D,U+00AB,U+00BB,U+201C,U+201D,U+201E,U+201F"/>
+                    <Rule Left="0.75" Right="0" Unit="7" Characters="U+2035"/>
+                    <Rule Left="0.75" Right="0.75" Unit="7" Characters="U+0027,U+002A,U+0060,U+007E,U+00B4,U+2018,U+2019,U+201A,U+201B,U+2039,U+203A"/>
+                </Rules>
+            </Set>
+        </OpticalMarginSets>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="0" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="2" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="432" PageHeight="648" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="0" PageName="Normal Left" MasterPageName="" Size="Custom" Orientation="0" LeftPage="1" Preset="2" VerticalGuides="" HorizontalGuides="" AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="432" PageHeight="648" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="1" PageName="Normal Right" MasterPageName="" Size="Custom" Orientation="0" LeftPage="0" Preset="2" VerticalGuides="" HorizontalGuides="" AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="0" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="0" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="2" PageName="New Master Page 2" MasterPageName="" Size="Letter" Orientation="0" LeftPage="1" Preset="2" VerticalGuides="" HorizontalGuides="-19.8 19.8 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="1" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="1" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <MasterPage PageXPosition="100" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="3" PageName="New Master Page 3" MasterPageName="" Size="Letter" Orientation="0" LeftPage="0" Preset="2" VerticalGuides="" HorizontalGuides="19.8 772.2 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="1" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="1" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="0" PageName="" MasterPageName="Normal Left" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="" HorizontalGuides="19.8 772.2 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="1" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="1" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="712" PageYPosition="20" PageWidth="612" PageHeight="792" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="1" PageName="" MasterPageName="Normal Right" Size="Letter" Orientation="0" LeftPage="0" Preset="2" VerticalGuides="" HorizontalGuides="19.8 772.2 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="1" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="1" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <Page PageXPosition="100" PageYPosition="852" PageWidth="612" PageHeight="792" BorderLeft="40.0032" BorderRight="40.0032" BorderTop="40.0032" BorderBottom="40.0032" PageNumber="2" PageName="" MasterPageName="New Master Page 2" Size="Letter" Orientation="0" LeftPage="0" Preset="0" VerticalGuides="" HorizontalGuides="19.8 772.2 -19.8 " AutoGuideHorizontalGap="0" AutoGuideVerticalGap="0" AutoGuideHorizontalCount="0" AutoGuideVerticalCount="1" AutoGuideHorizontalReference="0" AutoGuideVerticalReference="1" AutoGuideSelection="0 0 0 0" PageEffectDuration="1" PageViewDuration="1" PageEffectType="0" PageEffectLineDirection="0" PageEffectInsideOutside="0" PageEffectDirection="0"/>
+        <MasterObject XPosition="100" YPosition="20" OwnPage="2" ItemID="1222333269" ItemType="6" Width="611.219512195122" Height="792.585365853659" FrameType="0" ClipEdited="1" LineWidth="1" FillColor="Card Green Bright" LinePenStyle="1" ItemLocked="1" Path="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" ContourLinePath="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="1377792" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="109" YPosition="29" OwnPage="2" ItemID="1841920487" ItemType="6" Width="594" Height="774" CornerRadius="57.6" FrameType="2" ClipEdited="1" LineWidth="0" FillColor="Background Booklet" FillShade="98" LinePenStyle="1" LineCapStyle="16" LineJoinStyle="128" ItemLocked="1" Path="M0 57.6 C0 25.7884 25.7884 0 57.6 0 L536.4 0 C568.212 0 594 25.7884 594 57.6 L594 716.4 C594 748.212 568.212 774 536.4 774 L57.6 774 C25.7884 774 0 748.212 0 716.4 L0 57.6 Z" ContourLinePath="M0 70.7657 C0 31.6829 37.0007 0 82.6435 0 L511.357 0 C557 0 594 31.6829 594 70.7657 L594 703.234 C594 742.318 557 774 511.357 774 L82.6435 774 C37.0007 774 0 742.318 0 703.234 L0 70.7657 Z" OnMasterPage="New Master Page 2" DoOverprint="1" gXpos="9" gYpos="1377801" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="190.000000005065" YPosition="78.0502599986745" OwnPage="2" ItemID="693178595" ItemType="5" Width="432.000000000071" Height="1" FrameType="0" ClipEdited="0" Rotation="359.999607547556" LineWidth="9.00000000000175" FillShade="0" LineColor="Black" LinePenStyle="1" LineCapStyle="32" Path="" OnMasterPage="New Master Page 2" gXpos="90.000000005062" gYpos="1377850.05026" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="199.725583912591" YPosition="46.058536585366" OwnPage="2" ItemID="1239176770" ItemType="4" Width="414.54883902439" Height="60.0097560975609" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" ContourLinePath="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="99.725583912591" gYpos="1377818.05853659" gWidth="611.219512195122" gHeight="792.585365853659" ParagraphStyle="Title" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Parent="Title"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" FontFeatures="-liga,-clig,+ss12" Features="inherit outline" FontColor="White" StrokeColor="Card Red" TextOutlineWidth="3" Chars="RISK"/>
+                <Content Font="Intel One Mono Medium Italic" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Booklet Yellow" TextOutlineWidth="3" Chars=" &amp;"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Card Green Bright" TextOutlineWidth="3" Chars=" RE-ENTRY"/>
+                <trail Parent="Title"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="190.000003424786" YPosition="39.8" OwnPage="2" ItemID="246422526" ItemType="4" Width="431.658536585366" Height="20.2032" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" ContourLinePath="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="90.000003424786" gYpos="1377811.8" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1"/>
+                <Content Font="Intel One Mono Regular" FontSize="12" Chars="Korson &amp; Snow &amp; Kuhns present"/>
+                <trail Alignment="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="190.000003424786" YPosition="94.2073170731711" OwnPage="2" ItemID="1699157688" ItemType="4" Width="432" Height="20" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L432 0 L432 20 L0 20 L0 0 Z" ContourLinePath="M0 0 L432 0 L432 20 L0 20 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="90.000003424786" gYpos="1377866.20731707" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1" FontSize="15"/>
+                <Content Font="Intel One Mono Regular" FontSize="15" Chars="For 2-4 players • 20 minutes"/>
+                <trail Alignment="1" LineSpacingMode="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="309.78048780488" OwnPage="2" ItemID="935261830" ItemType="4" Width="531.9936" Height="281.243902439023" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="40.0032" gYpos="1378081.7804878" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Rules"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Card instructions may override these rules."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may not have more than 10 Reputation Tokens at any time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="If a player has zero Reputation Tokens, they immediately return to the start and lose any Employment cards"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="All players must vote in Scenario and Violation events and follow the applicable instructions after resolution"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may only have one Employment card in play at a time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content FontSize="16" Chars="Moving as the result of a Scenario or Violation card does not trigger a new event"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Be the first player to reach Reintegration to win!"/>
+                <trail ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="596.6368" OwnPage="2" ItemID="714799539" ItemType="4" Width="531.9936" Height="175.36" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="40.0032" gYpos="1378368.6368" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Setting Up the Game"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player puts their character token on the first space outside of Prison."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player collects 10 Reputation Tokens"/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player rolls a six-sided die. The player with the highest result starts. Play will continue clockwise starting with this player."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="129.780487804878" OwnPage="2" ItemID="1994824852" ItemType="4" Width="166.081338043381" Height="173.073170731707" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" ContourLinePath="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="40.0032" gYpos="1377901.7804878" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="18" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Components"/>
+                <para LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Game Board"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content FontSize="16" Chars="Event Cards"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Reputation Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" WordTrack="1.01" Chars="Character Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" Chars="Choice Tokens"/>
+                <trail LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="303.19512195122" YPosition="131.333955962821" OwnPage="2" ItemID="531097032" ItemType="2" Width="225.634146341463" Height="145.592873305472" FrameType="0" ClipEdited="1" LineWidth="1" LinePenStyle="1" ImageScaleX="0.0399847858127703" ImageScaleY="0.0399847858127703" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/Untitled72_20260920162307.jpg" ImageProfile="Embedded sRGB" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB" Path="M0 0 L225.634 0 L225.634 145.593 L0 145.593 L0 0 Z" ContourLinePath="M0 0 L183.336 -53.1055 L225.634 39.3819 L42.2982 92.4872 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="203.19512195122" gYpos="1377903.33395596" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <MasterObject XPosition="488.257014634146" YPosition="192.121951219512" OwnPage="2" ItemID="1675118813" ItemType="2" Width="183.739785365854" Height="181.356097560975" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.204922144136695" ImageScaleY="0.204922144136695" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/card examples.png" ImageProfile="sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" UseEmbeddedProfile="0" Path="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" ContourLinePath="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="388.257014634146" gYpos="1377964.12195122" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <MasterObject XPosition="100" YPosition="20" OwnPage="3" ItemID="1402213441" ItemType="6" Width="611.219512195122" Height="792.585365853659" FrameType="0" ClipEdited="1" LineWidth="1" FillColor="Card Green Bright" LinePenStyle="1" ItemLocked="1" Path="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" ContourLinePath="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="0" gYpos="0" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="109" YPosition="29" OwnPage="3" ItemID="706199087" ItemType="6" Width="594" Height="774" CornerRadius="57.6" FrameType="2" ClipEdited="1" LineWidth="0" FillColor="Background Booklet" FillShade="98" LinePenStyle="1" LineCapStyle="16" LineJoinStyle="128" ItemLocked="1" Path="M0 57.6 C0 25.7884 25.7884 0 57.6 0 L536.4 0 C568.212 0 594 25.7884 594 57.6 L594 716.4 C594 748.212 568.212 774 536.4 774 L57.6 774 C25.7884 774 0 748.212 0 716.4 L0 57.6 Z" ContourLinePath="M0 70.7657 C0 31.6829 37.0007 0 82.6435 0 L511.357 0 C557 0 594 31.6829 594 70.7657 L594 703.234 C594 742.318 557 774 511.357 774 L82.6435 774 C37.0007 774 0 742.318 0 703.234 L0 70.7657 Z" OnMasterPage="New Master Page 3" DoOverprint="1" gXpos="9" gYpos="9" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="190.000000005065" YPosition="78.0502599986745" OwnPage="3" ItemID="595535780" ItemType="5" Width="432.000000000071" Height="1" FrameType="0" ClipEdited="0" Rotation="359.999607547556" LineWidth="9.00000000000175" FillShade="0" LineColor="Black" LinePenStyle="1" LineCapStyle="32" Path="" OnMasterPage="New Master Page 3" gXpos="90.000000005062" gYpos="58.0502599986747" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <MasterObject XPosition="199.725583912591" YPosition="46.058536585366" OwnPage="3" ItemID="1174356160" ItemType="4" Width="414.54883902439" Height="60.0097560975609" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" ContourLinePath="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="99.725583912591" gYpos="26.058536585366" gWidth="611.219512195122" gHeight="792.585365853659" ParagraphStyle="Title" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Parent="Title"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" FontFeatures="-liga,-clig,+ss12" Features="inherit outline" FontColor="White" StrokeColor="Card Red" TextOutlineWidth="3" Chars="RISK"/>
+                <Content Font="Intel One Mono Medium Italic" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Booklet Yellow" TextOutlineWidth="3" Chars=" &amp;"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Card Green Bright" TextOutlineWidth="3" Chars=" RE-ENTRY"/>
+                <trail Parent="Title"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="190.000003424786" YPosition="39.8" OwnPage="3" ItemID="2137610260" ItemType="4" Width="431.658536585366" Height="20.2032" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" ContourLinePath="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="90.000003424786" gYpos="19.8" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1"/>
+                <Content Font="Intel One Mono Regular" FontSize="12" Chars="Korson &amp; Snow &amp; Kuhns present"/>
+                <trail Alignment="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="190.000003424786" YPosition="94.2073170731711" OwnPage="3" ItemID="2137459024" ItemType="4" Width="432" Height="20" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L432 0 L432 20 L0 20 L0 0 Z" ContourLinePath="M0 0 L432 0 L432 20 L0 20 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="90.000003424786" gYpos="74.2073170731711" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1" FontSize="15"/>
+                <Content Font="Intel One Mono Regular" FontSize="15" Chars="For 2-4 players • 20 minutes"/>
+                <trail Alignment="1" LineSpacingMode="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="319.224878048781" OwnPage="3" ItemID="483118775" ItemType="4" Width="531.9936" Height="281.243902439023" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="40.0032" gYpos="299.224878048781" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Rules"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Card instructions may override these rules."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may not have more than 10 Reputation Tokens at any time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="If a player has zero Reputation Tokens, they immediately return to the start and lose any Employment cards"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="All players must vote in Scenario and Violation events and follow the applicable instructions after resolution"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may only have one Employment card in play at a time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content FontSize="16" Chars="Moving as the result of a Scenario or Violation card does not trigger a new event"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Be the first player to reach Reintegration to win!"/>
+                <trail ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="616.84" OwnPage="3" ItemID="647596395" ItemType="4" Width="531.9936" Height="175.36" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="40.0032" gYpos="596.84" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Setting Up the Game"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player puts their character token on the first space outside of Prison."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player collects 10 Reputation Tokens"/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player rolls a six-sided die. The player with the highest result starts. Play will continue clockwise starting with this player."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="140.0032" YPosition="129.780487804878" OwnPage="3" ItemID="1815130432" ItemType="4" Width="166.081338043381" Height="173.073170731707" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" ContourLinePath="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="40.0032" gYpos="109.780487804878" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="18" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Components"/>
+                <para LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Game Board"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content FontSize="16" Chars="Event Cards"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Reputation Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" WordTrack="1.01" Chars="Character Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" Chars="Choice Tokens"/>
+                <trail LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </MasterObject>
+        <MasterObject XPosition="303.19512195122" YPosition="131.333955962821" OwnPage="3" ItemID="1041643696" ItemType="2" Width="225.634146341463" Height="145.592873305472" FrameType="0" ClipEdited="1" LineWidth="1" LinePenStyle="1" ImageScaleX="0.0399847858127703" ImageScaleY="0.0399847858127703" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/Untitled72_20260920162307.jpg" ImageProfile="Embedded sRGB" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB" Path="M0 0 L225.634 0 L225.634 145.593 L0 145.593 L0 0 Z" ContourLinePath="M0 0 L183.336 -53.1055 L225.634 39.3819 L42.2982 92.4872 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="203.19512195122" gYpos="111.333955962821" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <MasterObject XPosition="488.257014634146" YPosition="192.121951219512" OwnPage="3" ItemID="49494380" ItemType="2" Width="183.739785365854" Height="181.356097560975" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.204922144136695" ImageScaleY="0.204922144136695" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/card examples.png" ImageProfile="sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" UseEmbeddedProfile="0" Path="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" ContourLinePath="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" OnMasterPage="New Master Page 3" gXpos="388.257014634146" gYpos="172.121951219512" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="100" YPosition="852" OwnPage="2" ItemID="1217794168" ItemType="6" Width="611.219512195122" Height="792.585365853659" FrameType="0" ClipEdited="1" LineWidth="1" FillColor="Card Green Bright" LinePenStyle="1" Path="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" ContourLinePath="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" gXpos="-692" gYpos="164" gWidth="0" gHeight="0" Layer="0"/>
+        <PageObject XPosition="100" YPosition="20" OwnPage="0" ItemID="1742281560" ItemType="6" Width="611.219512195122" Height="792.585365853659" FrameType="0" ClipEdited="1" LineWidth="1" FillColor="Card Green Bright" LinePenStyle="1" ItemLocked="1" Path="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" ContourLinePath="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" gXpos="-612" gYpos="0" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <PageObject XPosition="109" YPosition="29" OwnPage="0" ItemID="1560218913" ItemType="6" Width="594" Height="774" CornerRadius="57.6" FrameType="2" ClipEdited="1" LineWidth="0" FillColor="Background Booklet" FillShade="98" LinePenStyle="1" LineCapStyle="16" LineJoinStyle="128" ItemLocked="1" Path="M0 57.6 C0 25.7884 25.7884 0 57.6 0 L536.4 0 C568.212 0 594 25.7884 594 57.6 L594 716.4 C594 748.212 568.212 774 536.4 774 L57.6 774 C25.7884 774 0 748.212 0 716.4 L0 57.6 Z" ContourLinePath="M0 70.7657 C0 31.6829 37.0007 0 82.6435 0 L511.357 0 C557 0 594 31.6829 594 70.7657 L594 703.234 C594 742.318 557 774 511.357 774 L82.6435 774 C37.0007 774 0 742.318 0 703.234 L0 70.7657 Z" DoOverprint="1" gXpos="-603" gYpos="9" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <PageObject XPosition="190.000000005066" YPosition="78.0502599986745" OwnPage="0" ItemID="584501004" ItemType="5" Width="432.000000000071" Height="1" FrameType="0" ClipEdited="0" Rotation="359.999607547556" LineWidth="9.00000000000175" FillShade="0" LineColor="Black" LinePenStyle="1" LineCapStyle="32" Path="" gXpos="-521.999999994938" gYpos="58.0502599986747" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0"/>
+        <PageObject XPosition="199.725583912591" YPosition="46.058536585366" OwnPage="0" ItemID="1357287163" ItemType="4" Width="414.54883902439" Height="60.0097560975609" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" ContourLinePath="M0 0 L414.549 0 L414.549 60.0098 L0 60.0098 L0 0 Z" gXpos="-512.274416087409" gYpos="26.058536585366" gWidth="611.219512195122" gHeight="792.585365853659" ParagraphStyle="Title" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Parent="Title"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" FontFeatures="-liga,-clig,+ss12" Features="inherit outline" FontColor="White" StrokeColor="Card Red" TextOutlineWidth="3" Chars="RISK"/>
+                <Content Font="Intel One Mono Medium Italic" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Booklet Yellow" TextOutlineWidth="3" Chars=" &amp;"/>
+                <Content Font="Intel One Mono Bold" FontSize="42" Features="inherit outline" FontColor="White" StrokeColor="Card Green Bright" TextOutlineWidth="3" Chars=" RE-ENTRY"/>
+                <trail Parent="Title"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="190.000003424786" YPosition="39.8" OwnPage="0" ItemID="1327846508" ItemType="4" Width="431.658536585366" Height="20.2032" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" ContourLinePath="M0 0 L431.659 0 L431.659 20.2032 L0 20.2032 L0 0 Z" gXpos="-521.999996575214" gYpos="19.8" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1"/>
+                <Content Font="Intel One Mono Regular" FontSize="12" Chars="Korson &amp; Snow &amp; Kuhns present"/>
+                <trail Alignment="1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="190.000003424786" YPosition="94.2073170731711" OwnPage="0" ItemID="777100064" ItemType="4" Width="432" Height="20" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="0" TextToFrameDistanceTop="0" TextToFrameDistanceBottom="0" TextToFrameDistanceRight="0" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L432 0 L432 20 L0 20 L0 0 Z" ContourLinePath="M0 0 L432 0 L432 20 L0 20 L0 0 Z" gXpos="-521.999996575214" gYpos="74.2073170731711" gWidth="611.219512195122" gHeight="792.585365853659" Alignment="1" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle Alignment="1" FontSize="15"/>
+                <Content Font="Intel One Mono Regular" FontSize="15" Chars="For 2-4 players • 20 minutes"/>
+                <trail Alignment="1" LineSpacingMode="1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140.0032" YPosition="319.224878048781" OwnPage="0" ItemID="113462723" ItemType="4" Width="531.9936" Height="281.243902439023" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 281.244 L0 281.244 L0 0 Z" gXpos="-571.9968" gYpos="299.224878048781" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Rules"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Card instructions may override these rules."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may not have more than 10 Reputation Tokens at any time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="If a player has zero Reputation Tokens, they immediately return to Prison and lose any Employment cards"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="All players must choose in Scenario and Violation events and follow the applicable instructions after resolution"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Players may only have one Employment card in play at a time"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content FontSize="16" Chars="Moving as the result of a Scenario or Violation card does not trigger a new event"/>
+                <para LineSpacingMode="0" LineSpacing="22" ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Be the first player to reach Reintegration to win!"/>
+                <trail ParagraphEffectOffset="9" ParagraphEffectIndent="1" HasDropCap="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140.0032" YPosition="616.84" OwnPage="0" ItemID="1700438016" ItemType="4" Width="531.9936" Height="175.36" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" gXpos="-571.9968" gYpos="596.84" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Setting Up the Game"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player puts their character token on the first space outside of Prison."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player collects 10 Reputation Tokens"/>
+                <para Parent="Paragraph Boxes"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Each player rolls a six-sided die. The player with the highest result starts. Play will continue clockwise starting with this player."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="140.0032" YPosition="129.780487804878" OwnPage="0" ItemID="470330198" ItemType="4" Width="166.081338043381" Height="173.073170731707" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" ContourLinePath="M0 0 L166.081 0 L166.081 173.073 L0 173.073 L0 0 Z" gXpos="-571.9968" gYpos="109.780487804878" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="18" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Components"/>
+                <para LineSpacingMode="1"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Game Board"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content FontSize="16" Chars="Event Cards"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <Content Font="Arial Regular" FontSize="16" Chars="Reputation Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" WordTrack="1.01" Chars="Character Tokens"/>
+                <para LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0" WordTrack="1.01"/>
+                <Content FontSize="16" Chars="Choice Tokens"/>
+                <trail LineSpacingMode="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" HasDropCap="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="303.19512195122" YPosition="131.333955962821" OwnPage="0" ItemID="927090464" ItemType="2" Width="225.634146341463" Height="145.592873305472" FrameType="0" ClipEdited="1" LineWidth="1" LinePenStyle="1" ImageScaleX="0.0399847858127703" ImageScaleY="0.0399847858127703" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/Untitled72_20260920162307.jpg" ImageProfile="Embedded sRGB" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB" Path="M0 0 L225.634 0 L225.634 145.593 L0 145.593 L0 0 Z" ContourLinePath="M0 0 L183.336 -53.1055 L225.634 39.3819 L42.2982 92.4872 L0 0 Z" gXpos="-408.80487804878" gYpos="111.333955962821" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="488.257014634146" YPosition="192.121951219512" OwnPage="0" ItemID="1863267271" ItemType="2" Width="183.739785365854" Height="181.356097560975" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="0.204922144136695" ImageScaleY="0.204922144136695" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="0" ImageRatio="1" ImagePageNumber="0" ImageFileName="../Downloads/card examples.png" ImageProfile="sRGB built-in" ImageColorimetricIntent="0" EmbeddedProfile="Embedded sRGB built-in" UseEmbeddedProfile="0" Path="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" ContourLinePath="M0 0 L183.74 0 L183.74 181.356 L0 181.356 L0 0 Z" gXpos="-223.742985365854" gYpos="172.121951219512" gWidth="611.219512195122" gHeight="792.585365853659" Layer="0" NextItem="-1" BackItem="-1"/>
+        <PageObject XPosition="712" YPosition="20" OwnPage="1" ItemID="1859859588" ItemType="6" Width="611.219512195122" Height="792.585365853659" FrameType="0" ClipEdited="1" LineWidth="1" FillColor="Card Green Bright" LinePenStyle="1" ItemLocked="1" Path="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" ContourLinePath="M0 0 L611.22 0 L611.22 792.585 L0 792.585 L0 0 Z" gXpos="532" gYpos="-668" gWidth="0" gHeight="0" Layer="0"/>
+        <PageObject XPosition="721" YPosition="29" OwnPage="1" ItemID="757665794" ItemType="6" Width="594" Height="774" CornerRadius="57.6" FrameType="2" ClipEdited="1" LineWidth="0" FillColor="Background Booklet" FillShade="98" LinePenStyle="1" LineCapStyle="16" LineJoinStyle="128" ItemLocked="1" Path="M0 57.6 C0 25.7884 25.7884 0 57.6 0 L536.4 0 C568.212 0 594 25.7884 594 57.6 L594 716.4 C594 748.212 568.212 774 536.4 774 L57.6 774 C25.7884 774 0 748.212 0 716.4 L0 57.6 Z" ContourLinePath="M0 70.7657 C0 31.6829 37.0007 0 82.6435 0 L511.357 0 C557 0 594 31.6829 594 70.7657 L594 703.234 C594 742.318 557 774 511.357 774 L82.6435 774 C37.0007 774 0 742.318 0 703.234 L0 70.7657 Z" DoOverprint="1" gXpos="541" gYpos="-659" gWidth="0" gHeight="0" Layer="0"/>
+        <PageObject XPosition="752.0032" YPosition="39.8" OwnPage="1" ItemID="1337616311" ItemType="4" Width="531.9936" Height="175.36" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.72" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 175.36 L0 175.36 L0 0 Z" gXpos="612" gYpos="-832" gWidth="531.9936" gHeight="744.361112195122" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="On Your Turn"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content FontSize="16" Chars="Roll a six-sided die and move that number of spaces toward the end goal. If there are multiple paths, you can choose which to take."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content FontSize="16" Chars="Draw a card from the deck that matches the space you landed on. If the space is blank, your turn is complete."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content FontSize="16" Chars="See below for how each card type is played."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752.0032" YPosition="365.832195122246" OwnPage="1" ItemID="1448424556" ItemType="4" Width="531.9936" Height="233.390243902437" CornerRadius="18.72" FrameType="2" ClipEdited="0" LineWidth="1" FillColor="Booklet Yellow" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 18.72 C0 8.38123 8.38123 0 18.72 0 L513.274 0 C523.612 0 531.994 8.38123 531.994 18.72 L531.994 214.67 C531.994 225.009 523.612 233.39 513.274 233.39 L18.72 233.39 C8.38123 233.39 0 225.009 0 214.67 L0 18.72 Z" ContourLinePath="M0 18.72 C0 8.38123 8.38123 0 18.72 0 L513.274 0 C523.612 0 531.994 8.38123 531.994 18.72 L531.994 214.67 C531.994 225.009 523.612 233.39 513.274 233.39 L18.72 233.39 C8.38123 233.39 0 225.009 0 214.67 L0 18.72 Z" gXpos="612" gYpos="-505.967804877752" gWidth="531.9936" gHeight="744.361112195122" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="20" FontColor="Black" ScaleVertical="100" BaselineOffset="29" Chars="Scenarios and Violations"/>
+                <para Parent="H2" Alignment="1"/>
+                <Content FontSize="16" Chars="Scenarios and Violations present players with options that can either help or hinder. When a Scenario or Violation card is drawn, place it face up so it is visible to all players. All players must choose an option, regardless of who drew the card."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content FontSize="16" Chars="Using your Choice Token, anonymously choose from the two options. Do not discuss this choice with your fellow players. After all choices are made, players reveal their choice and follow the instruction that matches."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752.0032" YPosition="217.227804877901" OwnPage="1" ItemID="715620026" ItemType="4" Width="531.9936" Height="146.536585366443" CornerRadius="18.36" FrameType="2" ClipEdited="0" LineWidth="1.00000075303376" FillColor="Card Green Pale" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 18.36 C0 8.22005 8.22005 0 18.36 0 L513.634 0 C523.774 0 531.994 8.22005 531.994 18.36 L531.994 128.177 C531.994 138.317 523.774 146.537 513.634 146.537 L18.36 146.537 C8.22005 146.537 0 138.317 0 128.177 L0 18.36 Z" ContourLinePath="M0 18.36 C0 8.22005 8.22005 0 18.36 0 L513.634 0 C523.774 0 531.994 8.22005 531.994 18.36 L531.994 128.177 C531.994 138.317 523.774 146.537 513.634 146.537 L18.36 146.537 C8.22005 146.537 0 138.317 0 128.177 L0 18.36 Z" gXpos="612" gYpos="-654.572195122096" gWidth="531.9936" gHeight="744.361112195122" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle BackgroundColor="None"/>
+                <Content FontSize="20" FontColor="Black" BackgroundColor="None" Chars="Employment"/>
+                <para Parent="H2" Alignment="1"/>
+                <Content FontSize="16" BackgroundColor="None" Chars="Employment cards give you abilities that can change how you respond to other cards. Keep these in front of yo"/>
+                <Content FontSize="16" BackgroundColor="None" ScaleHorizontal="99" ScaleVertical="102" Chars="u."/>
+                <para Parent="Paragraph Boxes"/>
+                <Content FontSize="16" BackgroundColor="None" ScaleHorizontal="99" ScaleVertical="102" Chars="If you alre"/>
+                <Content FontSize="16" BackgroundColor="None" Chars="ady have an Employment card, you must discard it before accepting a different one."/>
+                <trail Parent="Paragraph Boxes"/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752.0032" YPosition="601.290243902585" OwnPage="1" ItemID="1828306401" ItemType="4" Width="531.9936" Height="117.481951219514" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 117.482 L0 117.482 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 117.482 L0 117.482 L0 0 Z" gXpos="612" gYpos="-270.509756097417" gWidth="531.9936" gHeight="744.361112195122" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Reputation and Going to Prison"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content FontSize="16" Chars="If, at any time, a player is reduced to zero Reputation Tokens, they must immediately move to the starting position and discard any Employment cards. They regain 10 Reputation Tokens before their next turn."/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="752.0032" YPosition="720.84" OwnPage="1" ItemID="1502097868" ItemType="4" Width="531.9936" Height="71.36" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="9.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 71.36 L0 71.36 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 71.36 L0 71.36 L0 0 Z" gXpos="612" gYpos="-150.959999999998" gWidth="531.9936" gHeight="744.361112195122" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="24" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Winning the Game"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <Content FontSize="16" Chars="The first player to reach Reintegration is the winner! "/>
+                <trail/>
+            </StoryText>
+        </PageObject>
+        <PageObject XPosition="109" YPosition="861" OwnPage="2" ItemID="2028760965" ItemType="6" Width="594" Height="774" CornerRadius="57.6" FrameType="2" ClipEdited="1" LineWidth="0" FillColor="Background Booklet" FillShade="98" LinePenStyle="1" LineCapStyle="16" LineJoinStyle="128" Path="M0 57.6 C0 25.7884 25.7884 0 57.6 0 L536.4 0 C568.212 0 594 25.7884 594 57.6 L594 716.4 C594 748.212 568.212 774 536.4 774 L57.6 774 C25.7884 774 0 748.212 0 716.4 L0 57.6 Z" ContourLinePath="M0 70.7657 C0 31.6829 37.0007 0 82.6435 0 L511.357 0 C557 0 594 31.6829 594 70.7657 L594 703.234 C594 742.318 557 774 511.357 774 L82.6435 774 C37.0007 774 0 742.318 0 703.234 L0 70.7657 Z" DoOverprint="1" gXpos="-683" gYpos="173" gWidth="0" gHeight="0" Layer="0"/>
+        <PageObject XPosition="140.0032" YPosition="871.8" OwnPage="2" ItemID="1763080177" ItemType="4" Width="531.9936" Height="752.4" FrameType="0" ClipEdited="0" LineWidth="1" LinePenStyle="1" ImageScaleX="1" ImageScaleY="1" ImageOffsetX="0" ImageOffsetY="0" ImageRotation="0" ImageVisible="1" ImageScaleType="1" ImageRatio="1" Columns="1" ColumnGap="0" AutomaticTextFrame="0" TextToFrameDistanceLeft="9.36" TextToFrameDistanceTop="9.36" TextToFrameDistanceBottom="9.36" TextToFrameDistanceRight="18.36" VerticalAlignment="0" FirstLineOffset="1" PathTextShowPath="0" PathTextDistanceFromPath="0" TextPathType="0" TextPathFlipped="0" Path="M0 0 L531.994 0 L531.994 752.4 L0 752.4 L0 0 Z" ContourLinePath="M0 0 L531.994 0 L531.994 752.4 L0 752.4 L0 0 Z" gXpos="-651.9968" gYpos="183.8" gWidth="0" gHeight="0" Layer="0" NextItem="-1" BackItem="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <Content Font="Arial Black" FontSize="32" FontColor="Card Red" ScaleVertical="100" BaselineOffset="29" Chars="Learn More"/>
+                <para Alignment="0" LineSpacingMode="1"/>
+                <para/>
+                <Content Font="Arial Bold" FontSize="19" Chars="Prison Policy Initiative"/>
+                <para/>
+                <Content Font="Arial Italic" FontSize="18" Chars="&quot;New research: How past incarceration affects people later in life&quot;"/>
+                <para/>
+                <Content FontSize="18" Chars="https://www.prisonpolicy.org/blog/2026/06/09/incarceration_impacts_in_later_life/"/>
+                <para Parent="Faux Links"/>
+                <para Parent="Default Paragraph Style"/>
+                <Content Font="Arial Bold" FontSize="19" Chars="PubMed Central"/>
+                <para/>
+                <Content Font="Arial Italic" FontSize="18" Chars="&quot;Life after incarceration: The impact of stability on formerly imprisoned Oxford House residents&quot;"/>
+                <para/>
+                <Content FontSize="18" Chars="https://pmc.ncbi.nlm.nih.gov/articles/PMC9149680/"/>
+                <para Parent="Faux Links"/>
+                <para/>
+                <Content Font="Arial Bold" FontSize="19" Chars="Palo Alto University"/>
+                <para/>
+                <Content Font="Arial Italic" FontSize="18" Chars="&quot;The Long-Term Effects of Incarceration&quot;"/>
+                <para/>
+                <Content FontSize="18" Chars="https://paloaltou.edu/resources/business-of-practice-blog/the-long-term-effects-of-incarceration"/>
+                <para Parent="Faux Links"/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PageObject>
+    </Document>
+</SCRIBUSUTF8NEW>
