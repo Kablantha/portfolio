@@ -167,43 +167,46 @@ tw-include[type="startup"] {
 }
 
 .window {
-    position: relative;
-    width: 640px;
-    height: 360px;
-    border: 12px solid #5b3a29;
-    border-radius: 3px;
-    overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+  position: relative;
+  width: 560px;
+  height: 315px;
+  border: 12px solid #5b3a29;
+  border-radius: 3px;
+  overflow: hidden;
 }
 
 .window iframe {
-    position: relative;
-    z-index: 1;
+  position: relative;
+  z-index: 1;
 }
 
 /* Vertical bar */
 .vbar {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    transform: translateX(-50%);
-    width: 16px;
-    height: 100%;
-    background: #5b3a29;
-    z-index: 10;
-    pointer-events: none;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  width: 16px;
+  height: 100%;
+  background: #5b3a29;
+  z-index: 10;
+  pointer-events: none;
 }
 
 /* Horizontal bar */
 .hbar {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-    width: 100%;
-    height: 16px;
-    background: #5b3a29;
-    z-index: 10;
-    pointer-events: none;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 100%;
+  height: 16px;
+  background: #5b3a29;
+  z-index: 10;
+  pointer-events: none;
 }
 }</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="startup" color="yellow"></tw-tag><tw-tag name="footer" color="purple"></tw-tag><tw-tag name="header" color="blue"></tw-tag><tw-passagedata pid="1" name="Intro" tags="" position="900,375" size="100,100">You are Bob the Spider. You find yourself in a concrete jungle, a forest of trash cans and bricks. This is your home, the alley behind the Longhorn Steakhouse in the town of Ordinary, Vermont. You moved here recently after being forcibly evicted from your lodgings on the ceiling of the restaurant. This change has left you at a crossroads, needing to decide what to do with the rest of your life.
 
@@ -225,7 +228,7 @@ Nobody knows what it is, because nobody has come back from the journey. Some say
     &lt;div class=&quot;shine&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-The End
+**The End**
 
 &lt;span class=&quot;choice&quot;&gt;(link: &quot;Start Over&quot;)[(restart:)]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="4" name="Climb" tags="" position="900,625" size="100,100">You approach the brick mountain that is the outside of Mama Giovanna&#39;s Pizzeria. You&#39;re certain there is a way in up there, and you just have to get there to find it.
 &lt;span class=&quot;choice&quot;&gt;\
