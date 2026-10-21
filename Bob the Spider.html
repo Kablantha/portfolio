@@ -257,11 +257,12 @@ It&#39;s not graceful, but you make it inside.
 (print: _window)]\
 (else:)[
 You failed to climb the wall. (set: $dex to it + 1)(set: $climb to false)
+
 You look around to see if anyone noticed you fall, but you&#39;re so cute they just thought you were being silly. 
 
 &lt;span class=&quot;choice&quot;&gt;[[Look for another way inside|Doorstep]]]&lt;/span&gt;\
 ]&lt;/span&gt;\
-&lt;span class=&quot;choice leave&quot;&gt;[[Actually, that looks too dangerous. Go home.|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="5" name="Startup" tags="startup" position="300,400" size="100,100">(set: $str to 3, $dex to 9, $cha to 20, $fall to 0, $climb to true)</tw-passagedata><tw-passagedata pid="6" name="Sidebar" tags="footer" position="400,400" size="100,100">(replace: ?Sidebar)[ \
+&lt;span class=&quot;choice leave&quot;&gt;[[Actually, that looks too dangerous. Go home.|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="5" name="Startup" tags="startup" position="300,400" size="100,100">(set: $str to 3, $dex to 9, $cha to 20, $fall to 0, $climb to true, $metvinny to false)</tw-passagedata><tw-passagedata pid="6" name="Sidebar" tags="footer" position="400,400" size="100,100">(replace: ?Sidebar)[ \
 #🕷 Bob the Spider
 
 **STRENGTH:** $str
@@ -297,7 +298,7 @@ You see a human coming toward the counter with a bottle and a rag. You must choo
 
 &lt;span class=&quot;choice&quot;&gt;[[Cardboard Caves and Forgotten Fry Field|Caves]]&lt;/span&gt;\
 &lt;span class=&quot;choice&quot;&gt;[[Marinaras Trench and Pepperoni Peaks|Trench]]&lt;/span&gt;\
-&lt;span class=&quot;choice leave&quot;&gt;[[Back outside to the Viewing Window of Drama|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="9" name="Tureen" tags="" position="900,1000" size="100,100">(set: _pizza to &quot;You immediately start hunting for a thesaurus to help you describe the amazing site before you. An infinite plane of cheese and crust sits atop a metal plate, just waiting for you to dive in. This is the treasure: the Golden Treasure, rated the #1 largest cheese pizza in Ordinary by the Ordinary Chamber of Commerce. You&#39;re barely able to contain yourself, but you have to decide: do you seize your treasure, or was finding it enough?
+&lt;span class=&quot;choice leave&quot;&gt;[[Back outside to the Viewing Window of Drama|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="9" name="Tureen" tags="" position="900,1000" size="100,100">(set: _pizza to &quot;You immediately start hunting for a thesaurus to help you describe the amazing sight before you. An infinite plane of cheese and crust sits atop a metal plate, just waiting for you to dive in. This is the treasure: the Golden Treasure, rated the #1 largest cheese pizza in Ordinary by the Ordinary Chamber of Commerce. You&#39;re barely able to contain yourself, but you have to decide: do you seize your treasure, or was finding it enough?
 
 &lt;span class=\&quot;choice\&quot;&gt;[[Scrooge McDuck into that thing!|Pizza]]&lt;/span&gt;\
 &lt;span class=\&quot;choice leave\&quot;&gt;[[I actually hate cheesy delicious goodness, I&#39;m good|Quit]]&lt;/span&gt;&quot;)\
@@ -389,25 +390,21 @@ In what seems like an instant but was actually a lifetime, you live a happy and 
 
 The End.
 &lt;span class=&quot;choice&quot;&gt;(link: &quot;Would you like to play again?&quot;)[(restart:)]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="13" name="Floor" tags="" position="1100,750" size="100,100">(if: $fall is 0)[\
-The floor before you is covered in textured brown tile. The grout is black from years of grease and dirt. In the corners, your 👁 **Exceptional Vision** reveals crumbs and detritus from years of rushed sweeping at the end of busy nights.
-(display: &quot;VinnyAdvice&quot;)]\
-(else:)[After your fall, you find yourself next to the back door of The Kitchen.]\
-(if: $fall is 1)[\
-&lt;p class=&quot;vinny&quot;&gt;Psst! Hey, you!&lt;/p&gt;\
-You hear a voice from behind a stack of boxes. When you turn to look, you see a cockroach waving at you. You carefully make your way to them.
-(display: &quot;VinnyAdvice&quot;)]\
-(else-if: $fall &gt; 1)[Before you is a jungle of tables, counters, mop buckets, and random implements and you remember the wise words of your &quot;pal&quot; Vinny.] \
-You make your way across the floor, dodging behind boxes and table legs to stay out of site. After a lot of close calls, you find yourself at the base of the Metal Counter of Blight.
-
+The floor before you is covered in textured brown tile. The grout is black from years of grease and dirt. In the corners, your 👁 **Exceptional Vision** reveals crumbs and detritus from years of rushed sweeping at the end of busy nights.(set: $fall to it + 1)]
+(else:)[After your fall, you find yourself next to the back door of The Kitchen. (set: $fall to it + 1)]\
+(if: $fall is 1 and not $metvinny)[\
+(display: &quot;VinnyAdvice&quot;)(set: $metvinny to true)]\
+(else-if: $fall &gt; 1)[Before you is a jungle of tables, counters, mop buckets, and random implements. You brace yourself to try again.] \
+&lt;p&gt;You make your way across the floor, dodging behind boxes and table legs to stay out of site. After a lot of close calls, you find yourself at the base of the Metal Counter of Blight.&lt;/p&gt;
 &lt;span class=&quot;choice&quot;&gt;[[Climb onto the counter|Counter]]&lt;/span&gt;\
 &lt;span class=&quot;choice leave&quot;&gt;[[Actually, nevermind. You heard Anna Maria was going to confront Deborah tonight and you need to be back in time to watch it.|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="14" name="VinnyAdvice" tags="" position="500,400" size="100,100">&lt;p class=&quot;vinny&quot;&gt;Psst! Hey, you!&lt;/p&gt;\
 You hear a voice from behind a stack of boxes. When you turn to look, you see a cockroach waving at you. You carefully make your way to them.
 &lt;p class=&quot;vinny&quot;&gt;You here for the treasure?&lt;/p&gt;\
 You tell them that you are, and what you know so far, which isn&#39;t much. You know you need to cross the Metal Counter of Blight, but you have no idea how you&#39;ll get there.
 &lt;p class=&quot;vinny&quot;&gt;Oh man, you really don&#39;t have a clue, huh? Don&#39;t worry, I know what to do.&lt;/p&gt;\
-The cockroach, who you assume is Vinny from context clues, tells you about a path to safely get to the Metal Table of Blight.
+The cockroach tells you about a path to safely get to the Metal Table of Blight.
 &lt;p class=&quot;vinny&quot;&gt;When you find the treasure, remember who had your back. Vinny&#39;s your pal, and I know you want to take care of your pals, right?&lt;/p&gt;\
-You thank Vinny and begin to follow his instructions.</tw-passagedata><tw-passagedata pid="15" name="Caves" tags="" position="900,875" size="100,100">(set: _friend to &quot;&quot;)\
+You thank the cockroach, who you assume is Vinny from context clues, and begin to follow his instructions.</tw-passagedata><tw-passagedata pid="15" name="Caves" tags="" position="900,875" size="100,100">(set: _friend to &quot;&quot;)\
 (if: $fall &gt; 0 or not $climb)[(set: _friend to &quot;Vinny&quot;)]\
 (else:)[(set: _friend to &quot;Your friends&quot;)]\
 (set: _cave to &quot;Of course you&#39;re brave, you&#39;re Bob the freaking Spider!
@@ -433,7 +430,7 @@ Are you a brave spider?
 (set: _roll2 to $str + _die2)\
 &lt;span class=&quot;roll&quot;&gt;You rolled **_die** + your Strength of **$str** for a total of **_roll**.&lt;/span&gt;
 (if: _roll &gt; 6)[
-You wade through the Marinaras Trench as fast as possible. You almost get pulled under several times, but through perseverence you succeed. Now that you are on the other shore, you see a path leading straight to the Pepperoni Peaks.
+You wade through the Marinaras Trench as fast as possible. You almost get pulled under several times, but through perseverance you succeed. Now that you are on the other shore, you see a path leading straight to the Pepperoni Peaks.
 
 &lt;span class=\&quot;choice\&quot;&gt;[[Climb the Pepperoni Peaks|Peaks]]&lt;/span&gt;]\
 (else:)[
@@ -442,24 +439,24 @@ As you begin crossing the ocean of pizza sauce, you feel your legs sinking below
 
 &lt;span class=&quot;choice&quot;&gt;[[Uh oh, you&#39;ve fallen to the floor!|Floor]]]&lt;/span&gt;\
 ]&lt;/span&gt;\
-&lt;span class=&quot;choice leave&quot;&gt;[[This is way too much trouble for a little spider.|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="17" name="Peaks" tags="" position="750,1000" size="100,100">(set: _friend to &quot;&quot;)
+&lt;span class=&quot;choice leave&quot;&gt;[[This is way too much trouble for a little spider.|Quit]]&lt;/span&gt;</tw-passagedata><tw-passagedata pid="17" name="Peaks" tags="" position="750,1000" size="100,100">(set: _friend to &quot;&quot;)\
 (set: _die to (random: 1,6))\
 (set: _roll to $dex + _die)\
-(if: $fall &gt; 0 or not $climb) [(set: _friend to &quot;Vinny&quot;)]\
-(else-if: $climb) [(set: _friend to &quot;a cockroach&quot;)]\
+(if: $metvinny) [(set: _friend to &quot;Vinny&quot;)]\
+(else-if: not $metvinny) [(set: _friend to &quot;a cockroach&quot;)]\
 You stand at the base of a mountain of pepperoni. It&#39;s not the largest obstacle you&#39;ve faced, but you know the clock is ticking. Going around would take much too long, so your only choice is to go over.
 &lt;p class=&quot;vinny&quot;&gt;Hey, kid. Over here.&lt;/p&gt;\
 You look over to see _friend hiding in the corner.
 &lt;p class=&quot;vinny&quot;&gt;I&#39;m impressed. I honestly didn&#39;t think you&#39;d make it this far. Let me reward your gumption with a little tip.&lt;/p&gt;\
 You lean forward to hear what he has to say.
-&lt;p class=&quot;vinny&quot;&gt;Listen, you didn&#39;t hear this from me, but there&#39;s a path through the mountain. I&#39;ll point it out to you. You just focus on getting past the Soup Turreen of Death and coming back to see your good friend Vinny after you find the treasure.&lt;/p&gt;\
+&lt;p class=&quot;vinny&quot;&gt;Listen, you didn&#39;t hear this from me, but there&#39;s a path through the mountain. I&#39;ll point it out to you. You just focus on getting past the Soup Tureen of Death and coming back to see your good friend Vinny after you find the treasure.&lt;/p&gt;\
 You can&#39;t shake the feeling that he expects something from you, but you&#39;re not sure what it is. Either way, that&#39;s an offer you can&#39;t refuse. You go the direction Vinny pointed and soon find a small path through the pepperoni. 
 
 &lt;span class=&quot;roll&quot;&gt;You rolled **_die** + your Dexterity of **$dex** for a total of **_roll**.&lt;/span&gt;
 &lt;!--No conditions here because it&#39;s impossible to fail. I just thought a roll would be more fun.--&gt;
 It&#39;s a tight squeeze, but you manage to ~~worm~~ spider your way through.
 
-When you exit the tunnel, you find yourself at the edge of the counter overlooking a metal cart. Sitting on it is a large, white, porcelain bowl with a similarly large, white, porcelain lid off to the side. A large, white, porcelain handle is sticking out of the chunky liquid within. It&#39;s then that it hits you what Vinny called this: The Soup Tureen of Death. Just beyond it is the most beautiful thing you&#39;ve ever seen, but how will you get there?
+When you exit the tunnel, you find yourself at the edge of the counter overlooking a metal cart. Sitting on it is a large, white, porcelain bowl with a similarly large, white, porcelain lid off to the side. A large, white, porcelain handle is sticking out of the chunky liquid within. It&#39;s then that it hits you what Vinny called this: The Soup Tureen of Death. Just beyond it is the most beautiful thing you&#39;ve ever seen, but how will you get there? (set: $metvinny to true)
 &lt;span class=&quot;choice&quot;&gt;[[Swing over the Soup Turren of Death|Tureen]]&lt;/span&gt;\
 &lt;span class=&quot;choice leave&quot;&gt;[[Tell Vinny he&#39;s on his own|Quit]]&lt;/span&gt;</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">(function(){"use strict";
